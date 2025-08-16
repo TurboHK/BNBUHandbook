@@ -3,8 +3,8 @@
     "honkit": "^6.0.3"
   },
   "scripts": {
-    "docs:build": "honkit build docs",
-    "docs:serve": "honkit serve docs"
+    "docs:build": "honkit build",
+    "docs:serve": "honkit serve"
   },
   "dependencies": {
     "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
