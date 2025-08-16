@@ -8,7 +8,7 @@
   "language": "zh-hans",
 
   "plugins": [
-    "insert-logo", "bottom-navigation", "autotheme", "summary", 
+    "insert-logo", "bottom-navigation", "autotheme", 
     "github", "tbfed-pagefooter", "code",
     "editlink", "book-summary-scroll-position-saver",
     "-lunr", "-search", "search-plus",

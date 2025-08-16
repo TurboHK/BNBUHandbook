@@ -1,28 +1,25 @@
-- [About](about/README.md)
+- [🏫 BNBU 手册](README.md)
 
+- [📰 文文、新闻！](news/README.md)
 
-## Assets
+- [📒 黄页](yellowpages/README.md)
 
-- [Icon]()
-- [Pic]()
-- [Association](association/README.md)
+- [🗓️ 校历](calendar/README.md)
 
-- [Buildings](buildings/README.md)
+- [🎓 学科部门](faculty/README.md)
 
-- [Calendar](calendar/README.md)
+- [🏢 区域及楼栋](buildings/README.md)
 
-- [Canteen](canteen/README.md)
+- [🍽️ 餐厅服务](canteen/README.md)
 
-- [Faculty](faculty/README.md)
+- [🎠 社团活动](association/README.md)
 
-- [Local](local/README.md)
+- [🖥️ 技术文档](tech/README.md)
 
-- [News](news/README.md)
+- [📲 社媒网络](sns/README.md)
 
-- [Sns](sns/README.md)
+- [🚎 交通设施](traffic/README.md)
 
-- [Tech](tech/README.md)
+- [📍 周边](local/README.md)
 
-- [Traffic](traffic/README.md)
-
-- [Yellowpages](yellowpages/README.md)
+- [✨ 关于](about/README.md)

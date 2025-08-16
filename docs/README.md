@@ -1,8 +1,3 @@
----
-cover: https://sso.uic.edu.cn/public/images/uic_bg2.png
-coverY: 0
----
-
 # 🏫 BNBU 手册
 
 > 海内存知己，天涯若比邻
