@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "honkit": "^6.0.3"
+  },
+  "scripts": {
+    "docs:build": "honkit build docs",
+    "docs:serve": "honkit serve docs"
+  },
+  "dependencies": {
+    "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
+    "gitbook-plugin-autotheme": "^1.0.1",
+    "gitbook-plugin-book-summary-scroll-position-saver": "^0.0.7",
+    "gitbook-plugin-bottom-navigation": "^0.2.2",
+    "gitbook-plugin-code": "^0.1.0",
+    "gitbook-plugin-editlink": "^1.0.2",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-favicon": "^0.0.2",
+    "gitbook-plugin-flexible-alerts": "^1.0.4",
+    "gitbook-plugin-github": "^3.0.0",
+    "gitbook-plugin-github-buttons": "^3.0.0",
+    "gitbook-plugin-insert-logo": "^0.1.5",
+    "gitbook-plugin-search-plus": "^1.0.4-alpha-3",
+    "gitbook-plugin-sharing-plus": "^0.0.2",
+    "gitbook-plugin-sidebar-style": "^1.0.2",
+    "gitbook-plugin-splitter": "^0.0.8",
+    "gitbook-plugin-summary": "^1.1.0",
+    "gitbook-plugin-tbfed-pagefooter": "^0.0.1"
+  }
+}
