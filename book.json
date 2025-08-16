@@ -39,7 +39,7 @@
     },
     
     "editlink": {
-      "base": "https://github.com/PhoenixTechProject/BNBUHandbook/edit/main/docs/README.md",
+      "base": "https://github.com/PhoenixTechProject/BNBUHandbook/edit/main/docs/",
       "label": "参与修订",
       "multilingual": false
     },
@@ -70,8 +70,8 @@
         "appleTouch": "assets/icon/book.ico"
       },
       "insert-logo": {
-        "url": "assets/icon/book.ico",
-        "style": "background: none; max-height: 30px; min-height: 30px"
+        "url": "https://cdn.jsdelivr.net/gh/FrostHamilton/HamiltonPicBed1@master/202508162347783.svg",
+        "style": "background: none; max-height: 50px; min-height: 50px"
       }
   },
 
