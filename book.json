@@ -14,7 +14,7 @@
     "-lunr", "-search", "search-plus",
     "anchor-navigation-ex", "sidebar-style", "flexible-alerts",
     "expandable-chapters", "sharing-plus", "favicon",
-    "embed-pdf", "sitemap", "rss"
+    "embed-pdf", "sitemap", "rss", "todo"
   ],
 
   "pluginsConfig": {

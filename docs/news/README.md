@@ -4,8 +4,9 @@ description: 文文新闻编辑部，报道 BNBU 校内校外有趣的新闻
 
 # 📰 文文新闻编辑部
 
-!!! warning 声明
-    该条目所登场之人物皆为虚构设定
+> **[!WARNING|label:声明]**
+> 该条目所登场之人物皆为虚构设定
+
 
 ![](../assets/pic/news.jpg)
 
