@@ -13,7 +13,8 @@
     "editlink", "book-summary-scroll-position-saver",
     "-lunr", "-search", "search-plus",
     "anchor-navigation-ex", "sidebar-style", "flexible-alerts",
-    "expandable-chapters", "sharing-plus", "favicon"
+    "expandable-chapters", "sharing-plus", "favicon",
+    "embed-pdf", "sitemap", "rss", "todo"
   ],
 
   "pluginsConfig": {
@@ -70,8 +71,25 @@
         "appleTouch": "assets/icon/book.ico"
       },
       "insert-logo": {
-        "url": "https://cdn.jsdelivr.net/gh/FrostHamilton/HamiltonPicBed1@master/202508162347783.svg",
+        "url": "https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/icon/book.ico",
         "style": "background: none; max-height: 50px; min-height: 50px"
+      },
+
+      "sitemap": {
+        "hostname": "https://phoenixtechproject.github.io/BNBUHandbook/"
+      },
+
+      "rss": {
+        "title": "BNBU Handbook",
+        "description": "An open source comprehensive guide to BNBU.",
+        "author": "Denys Dovhan",
+        "site_url": "https://phoenixtechproject.github.io/BNBUHandbook/",
+        "feed_url": "https://phoenixtechproject.github.io/BNBUHandbook/sitemap.xml",
+        "managingEditor": "hanjiangxue@hamiltonblog.cn (Frost Hamilton)",
+        "webMaster": "hanjiangxue@hamiltonblog.cn (Frost Hamilton)",
+        "copyright": "©2025 PhoenixTech Project",
+        "language": "zh-hans",
+        "image_url": "https://phoenixtechproject.github.io/BNBUHandbook/assets/icon/book.png"
       }
   },
 
