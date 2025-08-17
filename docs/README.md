@@ -18,11 +18,11 @@ description: 自由丰富的 BNBU 知识手册
 
 * 一期校园
 
-{% pdf src="../assets/map/one.pdf", width="100%", height="470", link=false %}{% endpdf %}
+{% pdf src="./assets/map/one.pdf", width="100%", height="470", link=false %}{% endpdf %}
 
 * 二期校园
 
-{% pdf src="../assets/map/two.pdf", width="100%", height="470", link=false %}{% endpdf %}
+{% pdf src="./assets/map/two.pdf", width="100%", height="470", link=false %}{% endpdf %}
 
 ## ✍️ 加入协作
 
