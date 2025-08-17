@@ -19,16 +19,16 @@ jobs:
       with:
         node-version: '22.18.0'
       
-    - name: configue honkit
+    - name: configure honkit
       run: |
         npm install
       
-    - name: configue modify package
+    - name: configure modify package
       run: |
-        git clone https://github.com/FrostHamilton/gitbook-plugin-tbfed-pagefooter.git node_modules
-        git clone https://github.com/FrostHamilton/gitbook-plugin-sidebar-style.git node_modules
-        git clone https://github.com/FrostHamilton/gitbook-plugin-autotheme.git node_modules
-                
+        git clone https://github.com/FrostHamilton/gitbook-plugin-tbfed-pagefooter.git node_modules/gitbook-plugin-tbfed-pagefooter
+        git clone https://github.com/FrostHamilton/gitbook-plugin-sidebar-style.git node_modules/gitbook-plugin-sidebar-style
+        git clone https://github.com/FrostHamilton/gitbook-plugin-autotheme.git node_modules/gitbook-plugin-autotheme
+
     - name: generate _book folder
       run: |
         npx honkit build
