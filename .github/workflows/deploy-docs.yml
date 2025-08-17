@@ -1,0 +1,45 @@
+name: auto-generate-gitbook
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  main-to-gh-pages:
+    runs-on: ubuntu-latest
+        
+    steps:                          
+    - name: checkout main
+      uses: actions/checkout@v2
+      with:
+        ref: main
+            
+    - name: install nodejs
+      uses: actions/setup-node@v3
+      with:
+        node-version: '22.18.0'
+      
+    - name: configue honkit
+      run: |
+        npm install
+                
+    - name: generate _book folder
+      run: |
+        npx honkit build
+                
+    - name: push _book to branch gh-pages 
+      env:
+        TOKEN: ${{ secrets.PHOENIX_SYNC_TOKEN }}
+        REF: github.com/${{ github.repository }}
+        MYEMAIL: ${{ github.event.pusher.email }}
+        MYNAME: ${{ github.event.pusher.email }}
+      run: |
+        cd _book
+        git config --global user.email "${MYEMAIL}"
+        git config --global user.name "${MYNAME}"
+        git init
+        git remote add origin https://${REF}
+        git add . 
+        git commit -m "Updated By Github Actions With Build ${{github.run_number}} of ${{github.workflow}} For Github Pages"
+        git branch -M main
+        git push --force --quiet "https://${TOKEN}@${REF}.git" main:gh-pages
