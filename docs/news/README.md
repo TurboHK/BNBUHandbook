@@ -1,3 +1,15 @@
-# 📰 文文、新闻！
+---
+description: 文文新闻编辑部，报道 BNBU 校内校外有趣的新闻
+---
 
-![](https://cdn.jsdelivr.net/gh/FrostHamilton/HamiltonPicBed1@master/202508162337449.jpg)
+# 📰 文文新闻编辑部
+
+!!! warning 声明
+    该条目所登场之人物皆为虚构设定
+
+![](../assets/pic/news.jpg)
+
+## 📸 介绍
+
+Hello，大家好，这里是文文新闻编辑部！日常会报道一些 BNBU 校内校外有趣的新闻，并写在这个专栏下面，欢迎大家前来订阅！
+

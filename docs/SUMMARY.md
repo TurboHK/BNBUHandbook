@@ -1,6 +1,7 @@
 - [🏫 BNBU 手册](README.md)
 
-- [📰 文文、新闻！](news/README.md)
+## 📰 文文、新闻！
+- [📸 文文新闻编辑部](news/README.md)
 
 - [📒 黄页](yellowpages/README.md)
 
@@ -22,4 +23,6 @@
 
 - [📍 周边](local/README.md)
 
-- [✨ 关于](about/README.md)
+
+## 关于
+- [🗒️ 待办](about/todo.md)
