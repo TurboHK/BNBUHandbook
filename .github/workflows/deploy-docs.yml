@@ -22,6 +22,12 @@ jobs:
     - name: configue honkit
       run: |
         npm install
+      
+    - name: configue modify package
+      run: |
+        git clone https://github.com/FrostHamilton/gitbook-plugin-tbfed-pagefooter.git node_modules
+        git clone https://github.com/FrostHamilton/gitbook-plugin-sidebar-style.git node_modules
+        git clone https://github.com/FrostHamilton/gitbook-plugin-autotheme.git node_modules
                 
     - name: generate _book folder
       run: |
