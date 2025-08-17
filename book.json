@@ -13,8 +13,9 @@
     "editlink", "book-summary-scroll-position-saver",
     "-lunr", "-search", "search-plus",
     "anchor-navigation-ex", "sidebar-style", "flexible-alerts",
-    "expandable-chapters", "sharing-plus", "favicon",
-    "embed-pdf", "sitemap", "rss", "todo"
+    "todo", "sharing-plus", "favicon",
+    "embed-pdf", "sitemap", "rss",
+    "expandable-chapters"
   ],
 
   "pluginsConfig": {
