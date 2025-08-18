@@ -25,13 +25,18 @@ jobs:
       
     - name: configure modify package
       run: |
-        git clone https://github.com/FrostHamilton/gitbook-plugin-tbfed-pagefooter.git node_modules/gitbook-plugin-tbfed-pagefooter
-        git clone https://github.com/FrostHamilton/gitbook-plugin-sidebar-style.git node_modules/gitbook-plugin-sidebar-style
-        git clone https://github.com/FrostHamilton/gitbook-plugin-autotheme.git node_modules/gitbook-plugin-autotheme
+        git clone https://github.com/FrostHamilton/gitbook-plugin-tbfed-pagefooter.git ../node_modules/gitbook-plugin-tbfed-pagefooter
+        git clone https://github.com/FrostHamilton/gitbook-plugin-sidebar-style.git ../node_modules/gitbook-plugin-sidebar-style
+        git clone https://github.com/FrostHamilton/gitbook-plugin-autotheme.git ../node_modules/gitbook-plugin-autotheme
 
     - name: generate _book folder
       run: |
+        cd ./docs
         npx honkit build
+
+    - name: replace index
+      run: |
+        cp -f index.html ./_book/index.html
                 
     - name: push _book to branch gh-pages 
       env:
