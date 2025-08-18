@@ -1,45 +1,35 @@
-name: auto-generate-vitepress
+name: Deploy
+
 on:
   push:
     branches:
-    - main
+      - main
+
+permissions:
+  contents: write
 
 jobs:
-  main-to-gh-pages:
+  deploy:
     runs-on: ubuntu-latest
-        
-    steps:                          
-    - name: checkout main
-      uses: actions/checkout@v2
-      with:
-        ref: main
-            
-    - name: install nodejs
-      uses: actions/setup-node@v3
-      with:
-        node-version: '22.18.0'
-      
-    - name: configure vitepress
-      run: |
-        npm install
 
-    - name: generate dist
-      run: |
-        npm run docs:build
-                
-    - name: push dist to branch gh-pages 
-      env:
-        TOKEN: ${{ secrets.PHOENIX_SYNC_TOKEN }}
-        REF: github.com/${{ github.repository }}
-        MYEMAIL: ${{ github.event.pusher.email }}
-        MYNAME: ${{ github.event.pusher.email }}
-      run: |
-        cd ./docs/.vitepress/dist
-        git config --global user.email "${MYEMAIL}"
-        git config --global user.name "${MYNAME}"
-        git init
-        git remote add origin https://${REF}
-        git add . 
-        git commit -m "Updated By Github Actions With Build ${{github.run_number}} of ${{github.workflow}} For Github Pages"
-        git branch -M main
-        git push --force --quiet "https://${TOKEN}@${REF}.git" main:gh-pages
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run docs:build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: docs/.vitepress/dist
