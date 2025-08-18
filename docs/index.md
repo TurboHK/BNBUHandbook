@@ -1,34 +1,31 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "BNBU Handbook"
-  text: "A comprehensive BNBU Encyclopaedia"
-  tagline: Let's Dive In
-  actions:
-    - theme: brand
-      text: Start
-      link: /en/
-    - theme: alt
-      text: Project Page
-      link: https://github.com/PhoenixTechProject/BNBUHandbook
-  image:
-    src: /book.svg
-    alt: BNBU Handbook
-
-features:
-  - icon: 🇬🇧
-    title: English
-    details: BNBU Handbook, a comprehensive Encyclopaedia
-    link: /en/
-  - icon: 🇨🇳
-    title: 简体中文（大陆）
-    details: BNBU 手册，一个全面的百科全书
-    link: /zh-cn/ 
-  - icon: 🇭🇰
-    title: 粵語繁體（香港）
-    details: BNBU 手冊，一個全面的百科全書
-    link: /zh-yue/
+layout: doc
 ---
 
+<script setup>
+import { useRouter } from 'vitepress'
+import { onMounted } from 'vue'
+
+const router = useRouter()
+
+function detectLang() {
+  const langs = navigator.languages || [navigator.language]
+
+  for (const l of langs) {
+    const lang = l.toLowerCase()
+    if (lang.startsWith('zh-cn')) return 'zh-cn'
+    if (lang.startsWith('zh-hk') || lang.startsWith('zh-yue') || lang.startsWith('zh-tw')) return 'zh-yue'
+    if (lang.startsWith('en')) return 'en-us'
+  }
+  return 'en-us'
+}
+
+onMounted(() => {
+  const targetLang = detectLang()
+  router.go(`/${targetLang}/`)
+})
+</script>
+
+<div style="text-align:center;padding-top:5rem;font-size:1.2rem;">
+  
+</div>
