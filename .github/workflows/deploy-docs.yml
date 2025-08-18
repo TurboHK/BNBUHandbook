@@ -37,7 +37,7 @@ jobs:
 
     - name: replace index
       run: |
-        cp -f index.html ./_book/index.html
+        cp -f ./index.html ./_book/index.html
                 
     - name: push _book to branch gh-pages 
       env:
