@@ -28,6 +28,7 @@ jobs:
         git clone https://github.com/FrostHamilton/gitbook-plugin-tbfed-pagefooter.git ../node_modules/gitbook-plugin-tbfed-pagefooter
         git clone https://github.com/FrostHamilton/gitbook-plugin-sidebar-style.git ../node_modules/gitbook-plugin-sidebar-style
         git clone https://github.com/FrostHamilton/gitbook-plugin-autotheme.git ../node_modules/gitbook-plugin-autotheme
+        git clone https://github.com/okalachev/gitbook-plugin-language-picker.git ../node_modules/gitbook-plugin-language-picker
 
     - name: generate _book folder
       run: |
