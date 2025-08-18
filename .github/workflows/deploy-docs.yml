@@ -37,6 +37,7 @@ jobs:
 
     - name: replace index
       run: |
+        cd ./docs
         cp -f ./index.html ./_book/index.html
                 
     - name: push _book to branch gh-pages 
@@ -46,7 +47,7 @@ jobs:
         MYEMAIL: ${{ github.event.pusher.email }}
         MYNAME: ${{ github.event.pusher.email }}
       run: |
-        cd _book
+        cd ./docs/_book
         git config --global user.email "${MYEMAIL}"
         git config --global user.name "${MYNAME}"
         git init
