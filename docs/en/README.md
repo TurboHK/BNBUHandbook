@@ -12,7 +12,7 @@ description: The comprehensive BNBU knowledge handbook
 |-----|-----|-----|
 | 简体中文 | [链接](https://bnbutech.cn/zh-ch) | 维护良好 ✅️ |
 | English | [Link](https://bnbutech.cn/en) | Good Maintenance ✅️ |
-| 繁體粵語 | [網頁](https://bnbutech.cn/zh-hk) | 等待維護 ⚠️ |
+| 繁體粵語 | [網頁](https://bnbutech.cn/zh-hk) | 维护良好 ✅️ |
 
 你也可以点击左上方的小地球标志来切换至对应语言的页面
 
