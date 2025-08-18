@@ -1,0 +1,27 @@
+/* 左侧导航栏 */
+.book .book-summary {
+    font-family: "Noto Sans CJK HK", "PingFang TC", "Lantinghei TC", "Noto Sans CJK SC", "Microsoft YaHei UI", "Microsoft Yahei", Helvetica, Arial;
+}
+
+/* 正文 */
+.book .book-body {
+    font-family: "Noto Sans CJK HK", "PingFang TC", "Lantinghei TC", "Noto Sans CJK SC", "Microsoft YaHei UI", "Microsoft Yahei", Helvetica, Arial;
+}
+
+/* 代码块 */
+.markdown-section pre>code {
+    font-family: "Monaco", "InputMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+/* 行内代码块 */
+.markdown-section code {
+    font-family: "Monaco", "InputMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.honkit-link {
+     display: none !important;
+}
+
+input[type=checkbox]{
+    margin-left: -2em;
+}
