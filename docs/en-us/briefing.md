@@ -1,55 +1,53 @@
-# 前言
+## Intro
 
-歡迎使用 BNBU 手冊！
+Welcome to the BNBU Handbook!
 
-呢個企劃專登為 BNBUer 提供快靚正嘅資訊查詢服務。
+This project will provide BNBUers with quick access to information.
 
-喺度你可以摷到 BNBU 九成九嘅料，仲繼承咗師兄師姐留低嘅寶貴資訊遺產，幫你喺未來四年大學生涯快人一步。
+Here, you can find most of the information about BNBU, as well as valuable information left behind by previous generations, which will help you get ahead in your undergraduate career over the next four years.
 
 ![](../assets/pic/BNBU.png)
 
-## 🗺️ 校園地圖
+## 🗺️ Campus Map
+* Phase I Campus
 
-* **一期校園**  
-<iframe src="/map/one.pdf" width="600" height="375" style="border:1px solid black;"></iframe>
+![](../assets/map/one.jpg)
 
-* **二期校園**
-<iframe src="/map/two.pdf" width="600" height="375" style="border:1px solid black;"></iframe>
+* Phase II Campus
 
-## ✍ 加入協作
+![](../assets/map/two.jpg)
 
-本手冊行協作編輯制，即係話你可以一齊幫手執靚啲內容。
+## ✍️ Join collaboration
 
-## ⌨️ 識寫程式嘅朋友
+This manual uses a collaborative editing system, which means that you can join the project and participate in editing entries.
 
-每頁左上角有個「參與編輯」嘅連結，㩒入去就會跳去 GitHub 專案對應嘅 file 度。請先 Fork 去自己個 repo 改好，再出 Contribute request，等 admin approve 完 merge 就得。
+## ⌨️ With programming basics
 
-*   **快速上手（推薦）** 
+At the end of each page, you will find a hyperlink labelled ‘Participate in editing.’ Clicking on this link will take you to the corresponding file in the GitHub project. Please fork the repository to your own repository and make modifications. Once you have finished editing, submit a Contribute request. After review, wait for the merge to complete.
 
-個專案 set 咗 Actions 自動推 page，你直接 Fork `main` 分支，改指定嘅 Markdown file 就得。
+* Quick Start (Recommended)
+This project uses Actions to automatically push pages, so you can directly fork the main branch and then modify specific Markdown files.
 
-*   **全套設定**
+* Fully configured
+Please refer to package.json and the .yml files under workflows for environment configuration. This way, you can review the modified results locally before contributing. For more information about this project, please visit the ‘About’ section.
 
-跟住 book.json、package.json 同 workflows 下面啲 .yml file 配環境，改完可以喺自己部機 preview 效果先 Contribute。想知專案詳情請去「關於」欄目攞。
+### 🔰 I am a beginner
 
-### 🔰 新手入門
+* On GitHub
+Even computer novices can edit any entry. At the bottom of this page, we have provided the address for this project. Please participate in discussions or ask questions in the Discussions and Issues sections.
 
-*   **喺 GitHub 上**
+* Contact
+BNBU Handbook Project has an official chat group. You can choose to join and communicate and exchange ideas with other enthusiasts, including the planning manager.
 
-就算電腦新丁都可以幫手執內容，最尾有專案網址。去 Discussions 區吹水或者喺 Issue 區開 po 啦。  
-
-* 聯絡企劃組
-BNBU 手冊企劃有開官方吹水群，你可以入去同企劃負責人同其他同好傾計交流。
-
-| 平台 | 加入連結 | 注記 |
+| Platform | Link | Note |
 |-----|-----|-----|
-| QQ | 728748053 | 對昵稱有實名要求 |
+| QQ | 728748053 | Real info requirement for nicknames |
 
-## 許可
+## Licence
 
-本專案原碼擺喺 GitHub，頁面由 GitHub Page 託管，原碼行 [MIT 開源許可](https://mit-license.org/)。  
+The source code for this project is hosted on GitHub, and the pages are hosted on GitHub Pages. The source code is licensed under the [MIT open source licence](https://mit-license.org/).
 
-全站知識資源冇特別聲明嘅，一律跟住 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 協議發放。
+Unless otherwise stated, all knowledge resources on this website are distributed under the [CC-BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <br>
 

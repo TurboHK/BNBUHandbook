@@ -13,6 +13,9 @@ hero:
       text: 貢獻
       link: https://github.com/PhoenixTechProject/BNBUHandbook
 
+  image:
+    src: /book.svg
+
 features:
   - title: 粵語（香港繁體）
     details: BNBU 手冊

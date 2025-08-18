@@ -11,10 +11,12 @@
 ## 🗺️ 校园地图
 
 * 一期校园
-<iframe src="/map/one.pdf" width="600" height="375" style="border:1px solid black;"></iframe>
+
+![](../assets/map/one.jpg)
 
 * 二期校园
-<iframe src="/map/two.pdf" width="600" height="375" style="border:1px solid black;"></iframe>
+
+![](../assets/map/two.jpg)
 
 ## ✍️ 加入协作
 

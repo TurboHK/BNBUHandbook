@@ -13,6 +13,9 @@ hero:
       text: Contribute
       link: https://github.com/PhoenixTechProject/BNBUHandbook
 
+  image:
+    src: /book.svg
+
 features:
   - title: English
     details: BNBU Handbook
@@ -20,7 +23,7 @@ features:
   - title: 粵語（香港繁體）
     details: BNBU 手冊
     link: /zh-yue/
-  - title: 国语（大陆简体）
+  - title: 普通话（大陆简体）
     details: BNBU 手册
     link: /zh-cn/
 ---

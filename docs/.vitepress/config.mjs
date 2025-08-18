@@ -11,7 +11,7 @@ export default defineConfig({
   // 多语言根配置
   locales: {
     'zh-cn': {
-      label: '国语（大陆简体）',
+      label: '普通话（大陆简体）',
       lang: 'zh-CN'
     },
     'zh-yue': {
@@ -23,6 +23,8 @@ export default defineConfig({
       lang: 'en-US'
     }
   },
+
+  lastUpdated: true,
 
   themeConfig: {
     // GitHub 链接（右上角图标）
@@ -41,14 +43,29 @@ export default defineConfig({
     // 多语言下拉
     localeLinks: {
       items: [
-        { text: '国语（大陆简体）', link: 'zh-cn' },
+        { text: '普通话（大陆简体）', link: 'zh-cn' },
         { text: '粵語（香港繁體）', link: 'zh-yue' },
         { text: 'English', link: 'en-us' }
       ]
     },
 
+    // 编辑链接
+    editLink: {
+        pattern: "https://github.com/PhoenixTechProject/BNBUHandbook/tree/main/docs/:path",
+        text: "Edit This Page"
+    },
+
+    // 页脚信息
+    footer: {
+      message: "Released under the MIT License",
+      copyright: "Copyright © 2025 PhoenixTech Project",
+    },
+
+    lastUpdatedText: "Last Updated",
+
     // 导航栏
     nav: [
+      { text: 'Home', link: '/' },
       { text: 'PhoenixTech Project', link: 'https://github.com/PhoenixTechProject/' },
       // { text: 'English', link: '/en-us/' }
     ],
