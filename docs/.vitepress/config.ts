@@ -8,6 +8,8 @@ import { themeConfig } from "./src/theme";
 
 export default defineConfig({
 
+    base: "/BNBUHandbook/",
+
     ...docsConfig,
     head,
     themeConfig,
