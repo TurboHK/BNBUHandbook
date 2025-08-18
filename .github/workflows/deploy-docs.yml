@@ -1,4 +1,4 @@
-name: auto-generate-gitbook
+name: auto-generate-vitepress
 on:
   push:
     branches:
@@ -19,35 +19,22 @@ jobs:
       with:
         node-version: '22.18.0'
       
-    - name: configure honkit
+    - name: configure vitepress
       run: |
         npm install
-      
-    - name: configure modify package
-      run: |
-        git clone https://github.com/FrostHamilton/gitbook-plugin-tbfed-pagefooter.git ../node_modules/gitbook-plugin-tbfed-pagefooter
-        git clone https://github.com/FrostHamilton/gitbook-plugin-sidebar-style.git ../node_modules/gitbook-plugin-sidebar-style
-        git clone https://github.com/FrostHamilton/gitbook-plugin-autotheme.git ../node_modules/gitbook-plugin-autotheme
-        git clone https://github.com/okalachev/gitbook-plugin-language-picker.git ../node_modules/gitbook-plugin-language-picker
 
-    - name: generate _book folder
+    - name: generate dist
       run: |
-        cd ./docs
-        npx honkit build
-
-    - name: replace index
-      run: |
-        cd ./docs
-        cp -f ./index.html ./_book/index.html
+        npm run docs:build
                 
-    - name: push _book to branch gh-pages 
+    - name: push dist to branch gh-pages 
       env:
         TOKEN: ${{ secrets.PHOENIX_SYNC_TOKEN }}
         REF: github.com/${{ github.repository }}
         MYEMAIL: ${{ github.event.pusher.email }}
         MYNAME: ${{ github.event.pusher.email }}
       run: |
-        cd ./docs/_book
+        cd ./docs/.vitepress/dist
         git config --global user.email "${MYEMAIL}"
         git config --global user.name "${MYNAME}"
         git init
