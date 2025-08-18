@@ -51,7 +51,7 @@ export default defineConfig({
 
     // 编辑链接
     editLink: {
-        pattern: "https://github.com/PhoenixTechProject/BNBUHandbook/tree/main/docs/:path",
+        pattern: "https://github.com/PhoenixTechProject/BNBUHandbook/edit/main/docs/:path",
         text: "Edit This Page"
     },
 
