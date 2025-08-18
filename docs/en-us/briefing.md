@@ -1,11 +1,3 @@
----
-description: The comprehensive BNBU knowledge handbook
----
-
-# 🏫 BNBU Handbook
-
-> Don't ever tell anybody anything. If you do, you start missing everybody.
-
 ## Intro
 
 Welcome to the BNBU Handbook!
@@ -18,10 +10,12 @@ Here, you can find most of the information about BNBU, as well as valuable infor
 
 ## 🗺️ Campus Map
 * Phase I Campus
-<iframe src="/map/one.pdf" width="600" height="375" style="border:1px solid black;"></iframe>
+
+![](../assets/map/one.jpg)
 
 * Phase II Campus
-<iframe src="/map/two.pdf" width="600" height="375" style="border:1px solid black;"></iframe>
+
+![](../assets/map/two.jpg)
 
 ## ✍️ Join collaboration
 
