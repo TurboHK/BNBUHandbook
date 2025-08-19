@@ -49,12 +49,16 @@ BNBU Handbook Project has an official chat group. You can choose to join and com
 |-----|-----|-----|
 | QQ | 728748053 | Real info requirement for nicknames |
 
+## Contributors
+
+<a href="https://github.com/PhoenixTechProject/BNBUHandbook/graphs/contributors">
+  <br><img src="https://contributors-img.web.app/image?repo=PhoenixTechProject/BNBUHandbook" />
+</a>
+
 ## Licence
 
 The source code for this project is hosted on GitHub, and the pages are hosted on GitHub Pages. The source code is licensed under the [MIT open source licence](https://mit-license.org/).
 
 Unless otherwise stated, all knowledge resources on this website are distributed under the [CC-BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-<br>
 
 <img src=../assets/icon/rect-by-nc-sa.png width=10% />

@@ -6,7 +6,7 @@
 > 飲酒過量有害健康，人有雅量，酒有適量。<br>不飲酒人士不應因為相信飲酒有可能改善健康而開始飲酒。
 ![飲酒有害健康](../../assets/pic/banner_anti_alcohol.jpg)
 
-##  lost（現名bar HEYGANBAYTON） *5 / 10分*
+##  lost（現名 bar HEYGANBAYTON） *5 / 10分*
 
 ::: info 營業時間 / 地址
 18:30-03:00 | 珠海市香洲區金同路 2013 號

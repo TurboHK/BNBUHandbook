@@ -1,3 +1,5 @@
+> 普通话（大陆简体）分支维护者：[寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton)
+
 # 前言
 
 欢迎使用 BNBU 手册！
@@ -48,12 +50,30 @@ BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划
 |-----|-----|-----|
 | QQ | 728748053 | 对昵称有实名要求 |
 
+我们目前所支持接收的文件有：
+
+* Markdown 文件
+* Word 文件
+* TXT 文件
+
+## 语言分支维护情况
+
+| 语言 | 链接 | 状态 | 维护者 |
+|-----|-----|-----|-----|
+| 普通话（大陆简体） | [链接](https://bnbutech.cn/zh-cn/) | 维护良好 ✅ | [寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton) |
+| 粵語（香港繁體） | [链接](https://bnbutech.cn/zh-yue/) | 维护良好 ✅ | [TurboHK](https://github.com/TurboHK) |
+| English | [链接](https://bnbutech.cn/en-us/) | 正在维护 🚧 | [Deepl](https://www.deepl.com) |
+
+## 贡献者
+
+<a href="https://github.com/PhoenixTechProject/BNBUHandbook/graphs/contributors">
+  <br><img src="https://contributors-img.web.app/image?repo=PhoenixTechProject/BNBUHandbook" />
+</a>
+
 ## 许可
 
 本项目源码托管于 GitHub，页面托管于 GitHub Page，源码采用 [MIT 开源许可](https://mit-license.org/)。
 
 全站知识资源未做特别声明，均采用 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议进行分发。
-
-<br>
 
 <img src=../assets/icon/rect-by-nc-sa.png width=10% />
