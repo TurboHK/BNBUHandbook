@@ -8,7 +8,7 @@
 
 在这里你可以获取 BNBU 的绝大部分资讯，同时这也是前人所留下有价值的信息遗产，有助你在未来四年的本科生涯中弯道超车 。
 
-![](../assets/pic/BNBU.png)
+![](https://sso.uic.edu.cn/public/images/uic_bg2.png)
 
 ## 🗺️ 校园地图
 
