@@ -4,8 +4,9 @@ export default defineConfig({
   title: 'BNBU Handbook',
   description: 'A comprehensive BNBU Encyclopaedia',
   base: "/",
+  // CHANGE base TO "/" WHEN DEPLOY ON THE MAIN BRANCH
   head: [
-    ['link', { rel: 'icon', href: '/book.svg' }]   // 这里的路径是相对于站点根目录的
+    ['link', { rel: 'icon', href: '/public/book.svg' }]   // 这里的路径是相对于站点根目录的
   ],
 
   // 多语言根配置
@@ -295,7 +296,7 @@ export default defineConfig({
         {
           text: '📍 Nearby',
           items: [
-            { text: '📍 Nearby', link: '/en-us/local/' },
+            { text: '🍸 Pubs', link: '/en-us/local/pub' },
           ],
         },
       ]
