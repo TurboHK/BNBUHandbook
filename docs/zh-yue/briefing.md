@@ -8,7 +8,7 @@
 
 喺度你可以摷到 BNBU 九成九嘅料，仲繼承咗師兄師姐留低嘅寶貴資訊遺產，幫你喺未來四年大學生涯快人一步。
 
-![](../assets/pic/BNBU.png)
+![](https://sso.uic.edu.cn/public/images/uic_bg2.png)
 
 ## 🗺️ 校園地圖
 
