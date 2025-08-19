@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'BNBU Handbook',
   description: 'A comprehensive BNBU Encyclopaedia',
-  base: "/BNBUHandbook",
+  base: "/",
   // CHANGE base TO "/" WHEN DEPLOY ON THE MAIN BRANCH
   head: [
     ['link', { rel: 'icon', href: '/public/book.svg' }]   // 这里的路径是相对于站点根目录的
