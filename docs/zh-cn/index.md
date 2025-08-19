@@ -12,20 +12,21 @@ hero:
     - theme: alt
       text: 贡献
       link: https://github.com/PhoenixTechProject/BNBUHandbook
+
   image:
     src: /book.svg
 
 features:
   - title: 普通话（大陆简体）
     details: BNBU 手册
-    icon: 🇨🇳
+    icon: '<img src="/cn.svg" style="height:1.2em;vertical-align:middle;">'
     link: /zh-cn/
   - title: 粵語（香港繁體）
     details: BNBU 手冊
-    icon: 🇭🇰
+    icon: '<img src="/hk.svg" style="height:1.2em;vertical-align:middle;">'
     link: /zh-yue/
   - title: English
     details: BNBU Handbook
-    icon: 🇺🇸
+    icon: '<img src="/gb.svg" style="height:1.2em;vertical-align:middle;">'
     link: /en-us/
 ---

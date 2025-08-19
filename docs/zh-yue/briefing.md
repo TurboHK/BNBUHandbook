@@ -38,23 +38,28 @@
 
 ### 🔰 新手入門
 
-*   **喺 GitHub 上**
+*   **喺 GitHub 度**
 
 就算電腦新丁都可以幫手執內容，最尾有專案網址。去 Discussions 區吹水或者喺 Issue 區開 po 啦。  
 
-* 聯絡企劃組
+* **聯絡企劃組**
+
 BNBU 手冊企劃有開官方吹水群，你可以入去同企劃負責人同其他同好傾計交流。
 
 | 平台 | 加入連結 | 注記 |
 |-----|-----|-----|
 | QQ | 728748053 | 對昵稱有實名要求 |
 
+## 貢獻者
+
+<a href="https://github.com/PhoenixTechProject/BNBUHandbook/graphs/contributors">
+  <br><img src="https://contributors-img.web.app/image?repo=PhoenixTechProject/BNBUHandbook" />
+</a>
+
 ## 許可
 
 本專案原碼擺喺 GitHub，頁面由 GitHub Page 託管，原碼行 [MIT 開源許可](https://mit-license.org/)。  
 
 全站知識資源冇特別聲明嘅，一律跟住 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 協議發放。
-
-<br>
 
 <img src=../assets/icon/rect-by-nc-sa.png width=10% />
