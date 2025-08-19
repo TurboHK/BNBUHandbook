@@ -143,7 +143,7 @@ export default defineConfig({
         {
           text: '📍 周边',
           items: [
-            { text: '📍 周边', link: '/zh-cn/local/' },
+            { text: '🍸 酒吧', link: '/zh-cn/local/pub/' },
           ],
         },
       ],
@@ -219,7 +219,7 @@ export default defineConfig({
         {
           text: '📍 周邊',
           items: [
-            { text: '📍 周邊', link: '/zh-yue/local/' },
+            { text: '🍸 酒吧', link: '/zh-yue/local/pub' },
           ],
         },
       ],
