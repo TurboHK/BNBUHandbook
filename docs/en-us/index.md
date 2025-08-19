@@ -20,13 +20,13 @@ features:
   - title: English
     details: BNBU Handbook
     link: /en-us/
-    icon: '<img src="../assets/icon/gb.svg" style="height:1.2em;vertical-align:middle;">'
+    icon: '<img src="/gb.svg" style="height:1.2em;vertical-align:middle;">'
   - title: 粵語（香港繁體）
     details: BNBU 手冊
     link: /zh-yue/
-    icon: '<img src="../assets/icon/hk.svg" style="height:1.2em;vertical-align:middle;">'
+    icon: '<img src="/hk.svg" style="height:1.2em;vertical-align:middle;">'
   - title: 普通话（大陆简体）
     details: BNBU 手册
     link: /zh-cn/
-    icon: '<img src="../assets/icon/cn.svg" style="height:1.2em;vertical-align:middle;">'
+    icon: '<img src="/cn.svg" style="height:1.2em;vertical-align:middle;">'
 ---
