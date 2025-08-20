@@ -11,7 +11,7 @@
 ## MatLab Installation Guide
 | Contact | Link | Notes |
 | :---: | :---: | --- |
-| File | [Link](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/file/matlabintro.docx) | docx |
+| File | [Link](https://github.com/PhoenixTechProject/BNBUHandbook/raw/refs/heads/main/docs/assets/file/matlabintro.docx) | docx |
 
 ## Google Chrome Browser
 | Contact | Link | Notes |

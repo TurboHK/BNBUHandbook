@@ -11,7 +11,7 @@
 ## MatLab 安装向导
 | 联络方式 | 链接 | 备注 |
 | :---: | :---: | --- |
-| 文件 | [链接](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/file/matlabintro.docx) | docx |
+| 文件 | [链接](https://github.com/PhoenixTechProject/BNBUHandbook/raw/refs/heads/main/docs/assets/file/matlabintro.docx) | docx |
 
 ## Google Chrome 浏览器
 | 联络方式 | 链接 | 备注 |
