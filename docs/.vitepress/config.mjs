@@ -93,7 +93,15 @@ export default defineConfig({
           text: '📒 黄页',
           collapsed: false,
           items: [
-            { text: '📒 黄页', link: '/zh-cn/yellowpages/' },
+            { text: '📖 官方网站', link: '/zh-cn/yellowpages/official/' },
+            { text: '🗃️ 教务处（AR）', link: '/zh-cn/yellowpages/AR/' },
+            { text: '✒️ 课程与学分', link: '/zh-cn/yellowpages/course/' },
+            { text: '🛏️ 宿舍楼栋', link: '/zh-cn/yellowpages/dormitory/' },
+            { text: '📱 软件下载', link: '/zh-cn/yellowpages/download/' },
+            { text: '🧑‍🎓 毕业服务', link: '/zh-cn/yellowpages/graduation/' },
+            { text: '🩺 保健', link: '/zh-cn/yellowpages/health/' },
+            { text: '💻 信息资源服务（ITSC）', link: '/zh-cn/yellowpages/itsc/' },
+            { text: '📚 图书馆服务（LRC）', link: '/zh-cn/yellowpages/library/' },
           ],
         },
         {
@@ -142,7 +150,7 @@ export default defineConfig({
           text: '📲 社媒网络',
           collapsed: false,
           items: [
-            { text: '📲 社媒网络', link: '/zh-cn/sns/' },
+            { text: '📺 官方社媒', link: '/zh-cn/sns/official' },
           ],
         },
         {
@@ -182,7 +190,15 @@ export default defineConfig({
           text: '📒 黃頁',
           collapsed: false,
           items: [
-            { text: '📒 黃頁', link: '/zh-yue/yellowpages/' },
+            { text: '📖 官方網站', link: '/zh-yue/yellowpages/official/' },
+            { text: '🗃️ 教務處（AR）', link: '/zh-yue/yellowpages/AR/' },
+            { text: '✒️ 課程與學分', link: '/zh-yue/yellowpages/course/' },
+            { text: '🛏️ 宿舍樓棟', link: '/zh-yue/yellowpages/dormitory/' },
+            { text: '📱 軟體下載', link: '/zh-yue/yellowpages/download/' },
+            { text: '🧑‍🎓 畢業服務', link: '/zh-yue/yellowpages/graduation/' },
+            { text: ' 🩺 保健', link: '/zh-yue/yellowpages/health/' },
+            { text: '💻 資訊資源服務（ITSC）', link: '/zh-yue/yellowpages/itsc/' },
+            { text: '📚 圖書館服務（LRC）', link: '/zh-yue/yellowpages/library/' },
           ],
         },
         {
@@ -231,7 +247,7 @@ export default defineConfig({
           text: '📲 社交媒體',
           collapsed: false,
           items: [
-            { text: '📲 社交媒體', link: '/zh-yue/sns/' },
+            { text: '📺 官方社群媒體', link: '/zh-yue/sns/official' },,
           ],
         },
         {
@@ -271,7 +287,15 @@ export default defineConfig({
           text: '📒 Yellow Pages',
           collapsed: false,
           items: [
-            { text: '📒 Yellow Pages', link: '/en-us/yellowpages/' },
+            { text: '📖 Official Websites', link: '/en-us/yellowpages/official/' },
+            { text: '🗃️ Academic Registry (AR)', link: '/en-us/yellowpages/AR/' },
+            { text: '✒️ Courses and Grade', link: '/en-us/yellowpages/course/' },
+            { text: '🛏️ Dormitory', link: '/en-us/yellowpages/dormitory/' },
+            { text: '📱 Software', link: '/en-us/yellowpages/download/' },
+            { text: '🧑‍🎓 Graduation Services', link: '/en-us/yellowpages/graduation/' },
+            { text: '🩺 Health', link: '/en-us/yellowpages/health/' },
+            { text: '💻 Information Resources Services (ITSC)', link: '/en-us/yellowpages/itsc/' },
+            { text: '📚 Library Services (LRC)', link: '/en-us/yellowpages/library/' },
           ],
         },
         {
@@ -320,7 +344,7 @@ export default defineConfig({
           text: '📲 Social Media',
           collapsed: false,
           items: [
-            { text: '📲 Social Media', link: '/en-us/sns/' },
+            { text: '📺 官方社媒', link: '/en-us/sns/official' },
           ],
         },
         {
