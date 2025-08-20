@@ -5,7 +5,7 @@
 :::
 
 
-![](../../assets/pic/news.jpg)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/pic/news.jpg)
 
 ## 📸 介绍
 
