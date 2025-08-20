@@ -12,9 +12,17 @@
 
 * **一期校園**  
 
+::: info 速遞地址及郵區編號
+广东省珠海市香洲区唐家湾镇金同路 2000 号北师香港浸会大学 BNBU 新文化小镇，519087
+:::
+
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/one.jpg)
 
 * **二期校園**
+
+::: info 速遞地址及郵區編號
+广东省珠海市香洲区唐家湾镇北师香港浸会大学二期校园 D2 一楼菜鸟驿站服务中心，519087
+:::
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
 
@@ -48,23 +56,23 @@ BNBU 手冊企劃有開官方吹水群，你可以入去同企劃負責人同其
 |:-----:|:-----:|-----|
 | QQ | 728748053 | 對昵稱有實名要求 |
 
-* 郵箱
+* 官方電郵
 
 > [service@bnbutech.cn](mailto:service@bnbutech.cn)
 
-我們所支持接收的文件有：
+我哋而家支援接受嘅檔案格式有：
 
-* Markdown 文件
-* Word 文件
-* TXT 文件
+* Markdown 檔案
+* Word 檔案
+* TXT 檔案
 
 ## 語言分支維護情況
 
-| 語言 | 地址 | 狀態 | 維護者 |
+| 語言 | 連結 | 狀態 | 維護者 |
 |:-----:|:-----:|:-----:|:-----:|
 | 普通话（大陆简体） | [链接](https://bnbutech.cn/zh-cn/) | 维护良好 ✅ | [寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton) |
-| 粵語（香港繁體） | [地址](https://bnbutech.cn/zh-yue/) | 維護良好 ✅ | [TurboHK](https://github.com/TurboHK) |
-| English | [Link](https://bnbutech.cn/en-us/) | Under Maintenance 🚧 | [Deepl](https://www.deepl.com) |
+| 粵語（香港繁體） | [連結](https://bnbutech.cn/zh-yue/) | 維護良好 ✅ | [TurboHK](https://github.com/TurboHK) |
+| English | [Link](https://bnbutech.cn/en-us/) | Under Maintenance 🚧 | [DeepL](https://www.deepl.com) |
 
 ## 貢獻者
 
