@@ -3,7 +3,7 @@
 ## Cisco Anyconnect
 | 联络方式 | 链接 | 备注 |
 | :---: | :---: | --- |
-| 文件 | [链接](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/software/acWin.exe.exe) | Windows |
+| 文件 | [链接](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/software/acWin.exe) | Windows |
 | 文件 | [链接](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/software/acMac.pkg) | Mac |
 | 文件 | [链接](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/software/acAndroid.apk) | Android |
 | 网址 | [链接](https://apps.apple.com/cn/app/cisco-secure-client/id1135064690) | IOS |
