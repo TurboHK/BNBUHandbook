@@ -46,8 +46,26 @@ Even computer novices can edit any entry. At the bottom of this page, we have pr
 BNBU Handbook Project has an official chat group. You can choose to join and communicate and exchange ideas with other enthusiasts, including the planning manager.
 
 | Platform | Link | Note |
-|-----|-----|-----|
+|:-----:|:-----:|-----|
 | QQ | 728748053 | Real info requirement for nicknames |
+
+* Email
+
+> [service@bnbutech.cn](mailto:service@bnbutech.cn)
+
+We support receiving the following file types:
+
+* Markdown files
+* Word files
+* TXT files
+
+## Language Branch Maintenance Status
+
+| Language | Link | States | Maintainers |
+|:-----:|:-----:|:-----:|:-----:|
+| 普通话（大陆简体） | [链接](https://bnbutech.cn/zh-cn/) | 维护良好 ✅ | [寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton) |
+| 粵語（香港繁體） | [地址](https://bnbutech.cn/zh-yue/) | 維護良好 ✅ | [TurboHK](https://github.com/TurboHK) |
+| English | [Link](https://bnbutech.cn/en-us/) | Under Maintenance 🚧 | [Deepl](https://www.deepl.com) |
 
 ## Contributors
 
