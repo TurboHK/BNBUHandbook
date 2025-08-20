@@ -8,16 +8,14 @@ This project will provide BNBUers with quick access to information.
 
 Here, you can find most of the information about BNBU, as well as valuable information left behind by previous generations, which will help you get ahead in your undergraduate career over the next four years.
 
-![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/pic/BNBU.png)
-
 ## 🗺️ Campus Map
 * Phase I Campus
 
-![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/map/one.jpg)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/one.jpg)
 
 * Phase II Campus
 
-![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/map/two.jpg)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
 
 ## ✍️ Join collaboration
 
@@ -79,4 +77,4 @@ The source code for this project is hosted on GitHub, and the pages are hosted o
 
 Unless otherwise stated, all knowledge resources on this website are distributed under the [CC-BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-<img src=../assets/icon/rect-by-nc-sa.png width=10% />
+<img src=https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/rect-by-nc-sa.png width=10% />

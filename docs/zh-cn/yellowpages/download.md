@@ -3,15 +3,15 @@
 ## Cisco Anyconnect
 | 联络方式 | 链接 | 备注 |
 | :---: | :---: | --- |
-| 文件 | [链接](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/software/acWin.exe) | Windows |
-| 文件 | [链接](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/software/acMac.pkg) | Mac |
-| 文件 | [链接](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/software/acAndroid.apk) | Android |
+| 文件 | [链接](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/software/acWin.exe) | Windows |
+| 文件 | [链接](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/software/acMac.pkg) | Mac |
+| 文件 | [链接](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/software/acAndroid.apk) | Android |
 | 网址 | [链接](https://apps.apple.com/cn/app/cisco-secure-client/id1135064690) | IOS |
 
 ## MatLab 安装向导
 | 联络方式 | 链接 | 备注 |
 | :---: | :---: | --- |
-| 文件 | [链接](https://github.com/PhoenixTechProject/BNBUHandbook/raw/refs/heads/main/docs/assets/file/matlabintro.docx) | docx |
+| 文件 | [链接](https://github.com/PhoenixTechProject/HandbookPicBed/raw/refs/heads/main/word/matlabintro.docx) | docx |
 
 ## Google Chrome 浏览器
 | 联络方式 | 链接 | 备注 |

@@ -5,4 +5,4 @@
 
 <br>
 
-![電影《過春天》劇照](../assets/pic/thecrossing.webp)
+![電影《過春天》劇照](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/thecrossing.webp)
