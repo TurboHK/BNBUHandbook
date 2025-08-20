@@ -1,9 +1,9 @@
 # 📱 軟體下載
 
-## Cisco Anyconnect
+## Cisco AnyConnect
 | 聯絡方式 | 連結 | 備註 |
 | :---: | :---: | --- |
-| 檔案 | [連結](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/software/acWin.exe) | Windows |
+| 檔案 | [連結](https://github.com/PhoenixTechProject/HandbookPicBed/raw/refs/heads/main/software/acWin.exe) | Windows |
 | 檔案 | [連結](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/software/acMac.pkg) | Mac |
 | 檔案 | [連結](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/software/acAndroid.apk) | Android |
 | 網址 | [連結](https://apps.apple.com/cn/app/cisco-secure-client/id1135064690) | IOS |

@@ -4,7 +4,7 @@
 
 > [!CAUTION]
 > Excessive drinking is harmful to your health. People should know their limits, and alcohol should be consumed in moderation.<br>Non-drinkers should not start drinking for the perceived health benefits of alcohol consumption.
-![Alcohol is harmful to health](../../assets/pic/banner_anti_alcohol.jpg)
+![Alcohol is harmful to health](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/banner_anti_alcohol.jpg)
 
 ## lost (now known as bar HEYGANBAYTON) *5 / 10 points*
 

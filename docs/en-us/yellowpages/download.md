@@ -3,7 +3,7 @@
 ## Cisco AnyConnect
 | Contact | Link | Notes |
 | :---: | :---: | --- |
-| File | [Link](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/software/acWin.exe) | Windows |
+| File | [Link](https://github.com/PhoenixTechProject/HandbookPicBed/raw/refs/heads/main/software/acWin.exe) | Windows |
 | File | [Link](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/software/acMac.pkg) | Mac |
 | File | [Link](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/software/acAndroid.apk) | Android |
 | Website | [Link](https://apps.apple.com/cn/app/cisco-secure-client/id1135064690) | iOS |

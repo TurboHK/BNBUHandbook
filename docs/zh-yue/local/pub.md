@@ -4,7 +4,7 @@
 
 > [!CAUTION]
 > 飲酒過量有害健康，人有雅量，酒有適量。<br>不飲酒人士不應因為相信飲酒有可能改善健康而開始飲酒。
-![飲酒有害健康](../../assets/pic/banner_anti_alcohol.jpg)
+![飲酒有害健康](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/banner_anti_alcohol.jpg)
 
 ##  lost（現名 bar HEYGANBAYTON） *5 / 10分*
 
