@@ -245,6 +245,7 @@ export default defineConfig({
           text: '📍 周邊',
           collapsed: false,
           items: [
+            { text: '🥢 餐飲', link: '/zh-yue/local/catering/' },
             { text: '🍸 酒吧', link: '/zh-yue/local/pub' },
           ],
         },
