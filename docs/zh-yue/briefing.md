@@ -8,17 +8,17 @@
 
 喺度你可以摷到 BNBU 九成九嘅料，仲繼承咗師兄師姐留低嘅寶貴資訊遺產，幫你喺未來四年大學生涯快人一步。
 
-![](https://sso.uic.edu.cn/public/images/uic_bg2.png)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/pic/BNBU.png)
 
 ## 🗺️ 校園地圖
 
 * **一期校園**  
 
-![](../assets/map/one.jpg)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/map/one.jpg)
 
 * **二期校園**
 
-![](../assets/map/two.jpg)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/map/two.jpg)
 
 ## ✍ 加入協作
 
@@ -60,7 +60,7 @@ BNBU 手冊企劃有開官方吹水群，你可以入去同企劃負責人同其
 * Word 文件
 * TXT 文件
 
-##語言分支維護情況
+## 語言分支維護情況
 
 | 語言 | 地址 | 狀態 | 維護者 |
 |:-----:|:-----:|:-----:|:-----:|

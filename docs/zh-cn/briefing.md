@@ -8,7 +8,7 @@
 
 在这里你可以获取 BNBU 的绝大部分资讯，同时这也是前人所留下有价值的信息遗产，有助你在未来四年的本科生涯中弯道超车 。
 
-![](https://sso.uic.edu.cn/public/images/uic_bg2.png)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/pic/BNBU.png)
 
 ## 🗺️ 校园地图
 
@@ -18,7 +18,7 @@
 广东省珠海市香洲区唐家湾镇金同路2000号UIC新文化小镇快递点
 :::
 
-![](../assets/map/one.jpg)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/map/one.jpg)
 
 * 二期校园
 
@@ -26,7 +26,7 @@
 广东省珠海市香洲区唐家湾镇金同路香港浸会大学联合国际学院二期校区 D2 一楼 菜鸟驿站服务中心
 :::
 
-![](../assets/map/two.jpg)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/map/two.jpg)
 
 ## ✍️ 加入协作
 

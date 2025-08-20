@@ -8,16 +8,16 @@ This project will provide BNBUers with quick access to information.
 
 Here, you can find most of the information about BNBU, as well as valuable information left behind by previous generations, which will help you get ahead in your undergraduate career over the next four years.
 
-![](https://sso.uic.edu.cn/public/images/uic_bg2.png)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/pic/BNBU.png)
 
 ## 🗺️ Campus Map
 * Phase I Campus
 
-![](../assets/map/one.jpg)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/map/one.jpg)
 
 * Phase II Campus
 
-![](../assets/map/two.jpg)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/map/two.jpg)
 
 ## ✍️ Join collaboration
 

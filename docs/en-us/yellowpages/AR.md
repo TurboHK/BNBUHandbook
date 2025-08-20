@@ -1,8 +1,7 @@
-## 🗃️ Academic Registry (AR)
+# 🗃️ Academic Registry (AR)
 
 ::: info Office Hours
-Monday to Friday: 09:30-12:00, 13:30-17:00  
-Closed on Saturdays, Sundays, and public holidays
+Monday to Friday: 09:30-12:00, 13:30-17:00. Closed on Saturdays, Sundays, and public holidays
 :::
 
 ## AR Official Website
