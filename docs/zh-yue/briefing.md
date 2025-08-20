@@ -8,17 +8,15 @@
 
 喺度你可以摷到 BNBU 九成九嘅料，仲繼承咗師兄師姐留低嘅寶貴資訊遺產，幫你喺未來四年大學生涯快人一步。
 
-![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/pic/BNBU.png)
-
 ## 🗺️ 校園地圖
 
 * **一期校園**  
 
-![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/map/one.jpg)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/one.jpg)
 
 * **二期校園**
 
-![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/BNBUHandbook/docs/assets/map/two.jpg)
+![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
 
 ## ✍ 加入協作
 
@@ -80,4 +78,4 @@ BNBU 手冊企劃有開官方吹水群，你可以入去同企劃負責人同其
 
 全站知識資源冇特別聲明嘅，一律跟住 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 協議發放。
 
-<img src=../assets/icon/rect-by-nc-sa.png width=10% />
+<img src=https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/rect-by-nc-sa.png width=10% />

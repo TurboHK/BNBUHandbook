@@ -7,4 +7,4 @@ One may pass the border of spring with ease, yet the perilous frontier of youthâ
 
 <br>
 
-![Stills from the movie "The Crossing"](../assets/pic/thecrossing.webp)
+![Stills from the movie "The Crossing"](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/thecrossing.webp)
