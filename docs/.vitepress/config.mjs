@@ -6,8 +6,31 @@ export default defineConfig({
   base: "/",
   // CHANGE base TO "/" WHEN DEPLOY ON THE MAIN BRANCH
   head: [
-    ['link', { rel: 'icon', href: '/public/book.svg' }]   // 这里的路径是相对于站点根目录的
+    ['link', { rel: 'icon', href: '/book.svg' }],   // 这里的路径是相对于站点根目录的/public，下面给出警告：
+// Files in the public directory are served at the root path.
+// Instead of /public/book.svg, use /book.svg.
+
+    // Google Analytics Code
+    [
+      'script',
+      {
+        async: '',
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-0WQ4NW1WME'
+      }
+    ],
+    [
+      'script',
+      {},
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-0WQ4NW1WME');"
+    ],
   ],
+
+  // Sitemap
+
+  sitemap: {
+    hostname: 'https://bnbutech.cn',
+    lastmodDateOnly: false
+  },
 
   // 多语言根配置
   locales: {
@@ -93,15 +116,15 @@ export default defineConfig({
           text: '📒 黄页',
           collapsed: false,
           items: [
-            { text: '📖 官方网站', link: '/zh-cn/yellowpages/official/' },
-            { text: '🗃️ 教务处（AR）', link: '/zh-cn/yellowpages/AR/' },
-            { text: '✒️ 课程与学分', link: '/zh-cn/yellowpages/course/' },
-            { text: '🛏️ 宿舍楼栋', link: '/zh-cn/yellowpages/dormitory/' },
-            { text: '📱 软件下载', link: '/zh-cn/yellowpages/download/' },
-            { text: '🧑‍🎓 毕业服务', link: '/zh-cn/yellowpages/graduation/' },
-            { text: '🩺 保健', link: '/zh-cn/yellowpages/health/' },
-            { text: '💻 信息资源服务（ITSC）', link: '/zh-cn/yellowpages/itsc/' },
-            { text: '📚 图书馆服务（LRC）', link: '/zh-cn/yellowpages/library/' },
+            { text: '📖 官方网站', link: '/zh-cn/yellowpages/official' },
+            { text: '🗃️ 教务处（AR）', link: '/zh-cn/yellowpages/AR' },
+            { text: '✒️ 课程与学分', link: '/zh-cn/yellowpages/course' },
+            { text: '🛏️ 宿舍楼栋', link: '/zh-cn/yellowpages/dormitory' },
+            { text: '🧑‍🎓 毕业服务', link: '/zh-cn/yellowpages/graduation' },
+            { text: '🩺 保健', link: '/zh-cn/yellowpages/health' },
+            { text: '📱 软件下载', link: '/zh-cn/yellowpages/download' },
+            { text: '💻 信息资源服务（ITSC）', link: '/zh-cn/yellowpages/itsc' },
+            { text: '📚 图书馆服务（LRC）', link: '/zh-cn/yellowpages/library' },
           ],
         },
         {
@@ -164,8 +187,8 @@ export default defineConfig({
           text: '📍 周边',
           collapsed: false,
           items: [
-            { text: '🥢 餐饮', link: '/zh-cn/local/catering/' },
-            { text: '🍸 酒吧', link: '/zh-cn/local/pub/' },
+            { text: '🥢 餐饮', link: '/zh-cn/local/catering' },
+            { text: '🍸 酒吧', link: '/zh-cn/local/pub' },
           ],
         },
       ],
@@ -190,15 +213,15 @@ export default defineConfig({
           text: '📒 黃頁',
           collapsed: false,
           items: [
-            { text: '📖 官方網站', link: '/zh-yue/yellowpages/official/' },
-            { text: '🗃️ 教務處（AR）', link: '/zh-yue/yellowpages/AR/' },
-            { text: '✒️ 課程與學分', link: '/zh-yue/yellowpages/course/' },
-            { text: '🛏️ 宿舍樓棟', link: '/zh-yue/yellowpages/dormitory/' },
-            { text: '📱 軟體下載', link: '/zh-yue/yellowpages/download/' },
-            { text: '🧑‍🎓 畢業服務', link: '/zh-yue/yellowpages/graduation/' },
-            { text: ' 🩺 保健', link: '/zh-yue/yellowpages/health/' },
-            { text: '💻 資訊資源服務（ITSC）', link: '/zh-yue/yellowpages/itsc/' },
-            { text: '📚 圖書館服務（LRC）', link: '/zh-yue/yellowpages/library/' },
+            { text: '📖 官方網站', link: '/zh-yue/yellowpages/official' },
+            { text: '🗃️ 教務處（AR）', link: '/zh-yue/yellowpages/AR' },
+            { text: '✒️ 課程與學分', link: '/zh-yue/yellowpages/course' },
+            { text: '🛏️ 宿舍樓棟', link: '/zh-yue/yellowpages/dormitory' },
+            { text: '🧑‍🎓 畢業服務', link: '/zh-yue/yellowpages/graduation' },
+            { text: ' 🩺 保健', link: '/zh-yue/yellowpages/health' },
+            { text: '📱 軟體下載', link: '/zh-yue/yellowpages/download' },
+            { text: '💻 資訊資源服務（ITSC）', link: '/zh-yue/yellowpages/itsc' },
+            { text: '📚 圖書館服務（LRC）', link: '/zh-yue/yellowpages/library' },
           ],
         },
         {
@@ -261,7 +284,7 @@ export default defineConfig({
           text: '📍 周邊',
           collapsed: false,
           items: [
-            { text: '🥢 餐飲', link: '/zh-yue/local/catering/' },
+            { text: '🥢 餐飲', link: '/zh-yue/local/catering' },
             { text: '🍸 酒吧', link: '/zh-yue/local/pub' },
           ],
         },
@@ -287,15 +310,15 @@ export default defineConfig({
           text: '📒 Yellow Pages',
           collapsed: false,
           items: [
-            { text: '📖 Official Websites', link: '/en-us/yellowpages/official/' },
-            { text: '🗃️ Academic Registry (AR)', link: '/en-us/yellowpages/AR/' },
-            { text: '✒️ Courses and Grade', link: '/en-us/yellowpages/course/' },
-            { text: '🛏️ Dormitory', link: '/en-us/yellowpages/dormitory/' },
-            { text: '📱 Software', link: '/en-us/yellowpages/download/' },
-            { text: '🧑‍🎓 Graduation Services', link: '/en-us/yellowpages/graduation/' },
-            { text: '🩺 Health', link: '/en-us/yellowpages/health/' },
-            { text: '💻 Information Resources Services (ITSC)', link: '/en-us/yellowpages/itsc/' },
-            { text: '📚 Library Services (LRC)', link: '/en-us/yellowpages/library/' },
+            { text: '📖 Official Websites', link: '/en-us/yellowpages/official' },
+            { text: '🗃️ Academic Registry (AR)', link: '/en-us/yellowpages/AR' },
+            { text: '✒️ Courses and Grade', link: '/en-us/yellowpages/course' },
+            { text: '🛏️ Dormitory', link: '/en-us/yellowpages/dormitory' },
+            { text: '🧑‍🎓 Graduation Services', link: '/en-us/yellowpages/graduation' },
+            { text: '🩺 Health', link: '/en-us/yellowpages/health' },
+            { text: '📱 Software', link: '/en-us/yellowpages/download' },
+            { text: '💻 Information Resources Services (ITSC)', link: '/en-us/yellowpages/itsc' },
+            { text: '📚 Library Services (LRC)', link: '/en-us/yellowpages/library' },
           ],
         },
         {
@@ -358,7 +381,7 @@ export default defineConfig({
           text: '📍 Nearby',
           collapsed: false,
           items: [
-            { text: '🥢 Catering', link: '/en-us/local/catering/' },
+            { text: '🥢 Catering', link: '/en-us/local/catering' },
             { text: '🍸 Pubs', link: '/en-us/local/pub' },
           ],
         },

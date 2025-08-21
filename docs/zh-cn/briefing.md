@@ -10,18 +10,18 @@
 
 ## 🗺️ 校园地图
 
-* 一期校园
+* **一期校园**
 
-::: info 寄送快递地址
-广东省珠海市香洲区唐家湾镇金同路2000号UIC新文化小镇快递点
+::: info 寄送快递地址及邮政编码
+广东省珠海市香洲区唐家湾镇金同路2000号北师香港浸会大学BNBU新文化小镇，519087
 :::
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/one.jpg)
 
-* 二期校园
+* **二期校园**
 
-::: info 寄送快递地址
-广东省珠海市香洲区唐家湾镇金同路香港浸会大学联合国际学院二期校区 D2 一楼 菜鸟驿站服务中心
+::: info 寄送快递地址及邮政编码
+广东省珠海市香洲区唐家湾镇北师香港浸会大学二期校园 D2 一楼菜鸟驿站服务中心，519087
 :::
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
@@ -34,11 +34,11 @@
 
 在每一页的页尾处，您可以发现写有“参与编辑”的超链接，点击链接即可以跳转到 GitHub 项目对应的文件处，请 Fork 至自有仓库后进行修改，编辑完成后提出 Contribute 请求，经审查后等待 Merge 完成。
 
-* 快速上手（推荐）
+* **快速上手（推荐）**
 
 本项目已使用 Actions 自动推送页面，因此您可以直接 Fork main分支，然后对特定的 Markdown 文件进行修改即可。
 
-* 完全配置
+* **完全配置**
 
 请参照 package.json 与 workflows 下的 .yml 文件进行环境配置，这样您可以本地参照完修改后的效果再进行 Contribute。有关于本项目的更多信息请浏览“关于”栏目。
 
@@ -71,8 +71,8 @@ BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划
 | 语言 | 链接 | 状态 | 维护者 |
 |:-----:|:-----:|:-----:|:-----:|
 | 普通话（大陆简体） | [链接](https://bnbutech.cn/zh-cn/) | 维护良好 ✅ | [寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton) |
-| 粵語（香港繁體） | [地址](https://bnbutech.cn/zh-yue/) | 維護良好 ✅ | [TurboHK](https://github.com/TurboHK) |
-| English | [Link](https://bnbutech.cn/en-us/) | Under Maintenance 🚧 | [Deepl](https://www.deepl.com) |
+| 粵語（香港繁體） | [連結](https://bnbutech.cn/zh-yue/) | 維護良好 ✅ | [TurboHK](https://github.com/TurboHK) |
+| English | [Link](https://bnbutech.cn/en-us/) | Under Maintenance 🚧 | [DeepL](https://www.deepl.com) |
 
 ## 贡献者
 

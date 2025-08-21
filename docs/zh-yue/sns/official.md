@@ -20,7 +20,7 @@
 | :---: | :---: | --- |
 | 網址 | [連結](https://x.com/bnbu_gba) |  |
 
-## 哔哩哔哩
+## Bilibili
 | 聯絡方式 | 連結 | 備註 |
 | :---: | :---: | --- |
 | 網址 | [連結](https://space.bilibili.com/3546610413865737) |  |
@@ -30,7 +30,7 @@
 | :---: | :---: | --- |
 | 網址 | [連結](https://weixin.qq.com/r/UnXh_RzEnkHhrVia9yBA) |  |
 
-## 微信視頻號
+## 微信影音號
 | 聯絡方式 | 連結 | 備註 |
 | :---: | :---: | --- |
 | 網址 | [連結](https://weixin.qq.com/f/MLkDgrWUIbIfn6gk-iDbW6Y) |  |
