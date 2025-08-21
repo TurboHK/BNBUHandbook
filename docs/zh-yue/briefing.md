@@ -8,6 +8,11 @@
 
 喺度你可以摷到 BNBU 九成九嘅料，仲繼承咗師兄師姐留低嘅寶貴資訊遺產，幫你喺未來四年大學生涯快人一步。
 
+## BNBU Mobile
+
+呢個係我哋開發嘅一款 BNBU 校園一站通應用。喺 BNBU Mobile 上，你可以輕鬆管理日程，同埋攞到有用嘅課程、學術、生活同校園資訊。想下載或者瞭解更多有關 BNBU Mobile 資訊，請撳[**呢度**](https://turbostudios.org/index.php/bnbu-mobile/)。
+<br><br>![BNBU Mobile](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/BNBU_Mobile_16x9_Enlarged.png)
+
 ## 🗺️ 校園地圖
 
 * **一期校園**  
