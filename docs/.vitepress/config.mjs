@@ -6,10 +6,31 @@ export default defineConfig({
   base: "/",
   // CHANGE base TO "/" WHEN DEPLOY ON THE MAIN BRANCH
   head: [
-    ['link', { rel: 'icon', href: '/book.svg' }]   // 这里的路径是相对于站点根目录的/public，下面给出警告：
+    ['link', { rel: 'icon', href: '/book.svg' }],   // 这里的路径是相对于站点根目录的/public，下面给出警告：
 // Files in the public directory are served at the root path.
 // Instead of /public/book.svg, use /book.svg.
+
+    // Google Analytics Code
+    [
+      'script',
+      {
+        async: '',
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-0WQ4NW1WME'
+      }
+    ],
+    [
+      'script',
+      {},
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-0WQ4NW1WME');"
+    ],
   ],
+
+  // Sitemap
+
+  sitemap: {
+    hostname: 'https://bnbutech.cn',
+    lastmodDateOnly: false
+  },
 
   // 多语言根配置
   locales: {
