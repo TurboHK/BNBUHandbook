@@ -11,9 +11,17 @@ Here, you can find most of the information about BNBU, as well as valuable infor
 ## 🗺️ Campus Map
 * Phase I Campus
 
+::: info Address and ZIP Code
+广东省珠海市香洲区唐家湾镇金同路 2000 号北师香港浸会大学 BNBU 新文化小镇，519087
+:::
+
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/one.jpg)
 
 * Phase II Campus
+
+::: info Address and ZIP Code
+广东省珠海市香洲区唐家湾镇北师香港浸会大学二期校园 D2 一楼菜鸟驿站服务中心，519087
+:::
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
 
@@ -62,8 +70,8 @@ We support receiving the following file types:
 | Language | Link | States | Maintainers |
 |:-----:|:-----:|:-----:|:-----:|
 | 普通话（大陆简体） | [链接](https://bnbutech.cn/zh-cn/) | 维护良好 ✅ | [寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton) |
-| 粵語（香港繁體） | [地址](https://bnbutech.cn/zh-yue/) | 維護良好 ✅ | [TurboHK](https://github.com/TurboHK) |
-| English | [Link](https://bnbutech.cn/en-us/) | Under Maintenance 🚧 | [Deepl](https://www.deepl.com) |
+| 粵語（香港繁體） | [連結](https://bnbutech.cn/zh-yue/) | 維護良好 ✅ | [TurboHK](https://github.com/TurboHK) |
+| English | [Link](https://bnbutech.cn/en-us/) | Under Maintenance 🚧 | [DeepL](https://www.deepl.com) |
 
 ## Contributors
 
