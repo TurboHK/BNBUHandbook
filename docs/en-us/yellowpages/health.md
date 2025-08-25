@@ -45,5 +45,5 @@ Monday to Friday 08:30-17:30, 18:30-21:00. Weekend and public holiday appointmen
 | Contact | Link | Notes |
 | :---: | :---: | --- |
 | Email | [pgcc@uic.edu.cn](mailto:pgcc@uic.edu.cn) |  |
-| Phone | [+86-0756-3620210](tel:867563620210) | Not 24 hours |
-| Phone | [+86-4000300262](tel:864000300262) | Evening Hotline, 21:00–09:00 next day |
+| Phone | [+86-0756-3620210](tel:867563620210) | Make an appointment for psychological counseling, not 24 hours |
+| Phone | [+86-400-098-2525](tel:864000982525) | Psychological hotline service, available 24 hours a day, 365 days a year. When you need emotional counseling and psychological support, you can call the hotline for timely professional assistance. This hotline is only for BNBU When students are using it, they need to provide the school name and student ID when making a call. The caller will be charged according to the normal mobile phone plan. |
