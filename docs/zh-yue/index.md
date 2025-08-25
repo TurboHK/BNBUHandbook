@@ -10,11 +10,11 @@ hero:
       text: 開始閲讀
       link: /zh-yue/intro
     - theme: alt
+      text: BNBU Mobile App
+      link: https://turbostudios.org/index.php/bnbu-mobile/
+    - theme: alt
       text: 貢獻
       link: https://github.com/PhoenixTechProject/BNBUHandbook
-    - theme: alt
-      text: APP
-      link: https://turbostudios.org/index.php/bnbu-mobile/
 
   image:
     src: /book.svg

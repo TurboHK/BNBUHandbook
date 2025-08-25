@@ -8,6 +8,11 @@
 
 在这里你可以获取 BNBU 的绝大部分资讯，同时这也是前人所留下有价值的信息遗产，有助你在未来四年的本科生涯中弯道超车 。
 
+## BNBU Mobile
+
+这是我们开发的一款 BNBU 校园一站通应用。在 BNBU Mobile 上你可以轻松管理日程，并获得有用的课程、学术、生活及校园资讯。如欲下载或了解更多有关 BNBU Mobile 的信息，请按[**这里**](https://turbostudios.org/index.php/bnbu-mobile/)。
+<br><br>![BNBU Mobile](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/BNBU_Mobile_16x9_Enlarged.png)
+
 ## 🗺️ 校园地图
 
 * **一期校园**

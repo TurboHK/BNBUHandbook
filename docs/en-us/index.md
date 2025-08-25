@@ -10,11 +10,11 @@ hero:
       text: Read Now
       link: /en-us/intro
     - theme: alt
+      text: BNBU Mobile App
+      link: https://turbostudios.org/index.php/bnbu-mobile/
+    - theme: alt
       text: Contribute
       link: https://github.com/PhoenixTechProject/BNBUHandbook
-    - theme: alt
-      text: APP
-      link: https://turbostudios.org/index.php/bnbu-mobile/
 
   image:
     src: /book.svg

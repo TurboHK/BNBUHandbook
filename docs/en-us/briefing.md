@@ -8,6 +8,11 @@ This project will provide BNBUers with quick access to information.
 
 Here, you can find most of the information about BNBU, as well as valuable information left behind by previous generations, which will help you get ahead in your undergraduate career over the next four years.
 
+## BNBU Mobile
+
+This is a BNBU Campus One Stop App developed by us. On BNBU Mobile you can easily manage your schedule and get useful course, academic, life and campus information. To download or learn more about BNBU Mobile, please click [**here**](https://turbostudios.org/index.php/bnbu-mobile/).
+<br><br>![BNBU Mobile](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/BNBU_Mobile_16x9_Enlarged.png)
+
 ## 🗺️ Campus Map
 * Phase I Campus
 
