@@ -180,7 +180,7 @@ export default defineConfig({
           text: '🚎 交通设施',
           collapsed: false,
           items: [
-            { text: '🚎 道路运输', link: '/zh-cn/transportation/road'},
+            { text: '🚌 道路运输', link: '/zh-cn/transportation/road'},
             { text: '🚉 铁路运输', link: '/zh-cn/transportation/rail'},
             { text: '🚢 水路运输', link: '/zh-cn/transportation/waterborne'},
             { text: '✈️ 航空运输', link: '/zh-cn/transportation/air'},
@@ -280,7 +280,10 @@ export default defineConfig({
           text: '🚎 交通設施',
           collapsed: false,
           items: [
-            { text: '🚎 交通設施', link: '/zh-yue/transportation/' },
+            { text: '🚌 道路运输', link: '/zh-yue/transportation/road'},
+            { text: '🚉 鐵路運輸', link: '/zh-yue/transportation/rail'},
+            { text: '🚢 水路運輸', link: '/zh-yue/transportation/waterborne'},
+            { text: '✈️ 航空運輸', link: '/zh-yue/transportation/air'},
           ],
         },
         {
@@ -377,7 +380,10 @@ export default defineConfig({
           text: '🚎 Transportation',
           collapsed: false,
           items: [
-            { text: '🚎 Transportation', link: '/en-us/transportation/' },
+            { text: '🚌 Road Transport', link: '/en-us/transportation/road'},
+            { text: '🚉 Rail Transport', link: '/en-us/transportation/rail'},
+            { text: '🚢 Water Transport', link: '/en-us/transportation/waterborne'},
+            { text: '✈️ Air Transport', link: '/en-us/transportation/air'},
           ],
         },
         {
