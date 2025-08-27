@@ -180,7 +180,10 @@ export default defineConfig({
           text: '🚎 交通设施',
           collapsed: false,
           items: [
-            { text: '🚎 交通设施', link: '/zh-cn/transportation/' },
+            { text: '🚎 道路运输', link: '/zh-cn/transportation/road'},
+            { text: '🚉 铁路运输', link: '/zh-cn/transportation/rail'},
+            { text: '🚢 水路运输', link: '/zh-cn/transportation/waterborne'},
+            { text: '✈️ 航空运输', link: '/zh-cn/transportation/air'},
           ],
         },
         {
