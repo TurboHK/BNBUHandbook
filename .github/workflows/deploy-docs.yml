@@ -41,5 +41,5 @@ jobs:
           aws_key_id: ${{ secrets.OSS_ACCESS_KEY_ID }}
           aws_secret_access_key: ${{ secrets.OSS_SECRET_ACCESS_KEY}}
           aws_bucket: ${{ secrets.OSS_BUCKET }}
-          endpoint: ${{ secrets.OSS_BUCKET }}
+          endpoint: ${{ secrets.OSS_ENDPOINT }}
           source_dir: docs/.vitepress/dist
