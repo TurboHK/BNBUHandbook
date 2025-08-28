@@ -60,6 +60,7 @@ BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划
 | 平台 | 加入链接 | 备注 |
 |:-----:|:-----:|-----|
 | QQ | 728748053 | 对昵称有实名要求 |
+| 微信 | 邀请制 | 对昵称有实名要求 |
 
 * 官方邮箱
 
@@ -85,6 +86,12 @@ BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划
   <br><img src="https://contributors-img.web.app/image?repo=PhoenixTechProject/BNBUHandbook" />
 </a>
 
+## 特别致谢
+
+| 署名 | 贡献 | 备注 |
+|:-----:|:-----:|-----|
+| 派大星 | 条目撰写 | 主要执笔人之一 |
+
 ## 许可
 
 本项目源码托管于 GitHub，页面托管于 GitHub Page，源码采用 [MIT 开源许可](https://mit-license.org/)。
@@ -92,3 +99,4 @@ BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划
 全站知识资源未做特别声明，均采用 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议进行分发。
 
 <img src=https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/rect-by-nc-sa.png width=10% />
+

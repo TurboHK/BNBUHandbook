@@ -1,7 +1,5 @@
 # ✈️ Air Transport
 
-> Author: ShiJimmy
-
 ## Zhuhai Jinwan Airport  
 You can take the airport shuttle bus to get there.  
 *The arrival hall can be used for overnight stays – special forces travellers are most welcome to camp out here!*  

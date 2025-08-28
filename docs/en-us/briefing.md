@@ -58,7 +58,9 @@ BNBU Handbook Project has an official chat group. You can choose to join and com
 
 | Platform | Link | Note |
 |:-----:|:-----:|-----|
-| QQ | 728748053 | Real info requirement for nicknames |
+| QQ | 728748053 | Real info required for nicknames |
+| WeChat | Invitation Only | Real info required for nickname |
+
 
 * Email
 
@@ -84,6 +86,13 @@ We support receiving the following file types:
   <br><img src="https://contributors-img.web.app/image?repo=PhoenixTechProject/BNBUHandbook" />
 </a>
 
+## Special Thanks
+
+| Name | Contribution | Notes |
+|:-----:|:-----:|-----|
+| Patrick Star | Article Writing | One of the main authors |
+
+
 ## Licence
 
 The source code for this project is hosted on GitHub, and the pages are hosted on GitHub Pages. The source code is licensed under the [MIT open source licence](https://mit-license.org/).
@@ -91,3 +100,4 @@ The source code for this project is hosted on GitHub, and the pages are hosted o
 Unless otherwise stated, all knowledge resources on this website are distributed under the [CC-BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <img src=https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/rect-by-nc-sa.png width=10% />
+

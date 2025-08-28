@@ -1,7 +1,5 @@
 # 🚌 Road Transport
 
-> Author: ShiJimmy
-
 ## Buses (not ride-hailing ones)
 
 ### Common Routes

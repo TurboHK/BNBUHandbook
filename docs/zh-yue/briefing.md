@@ -60,6 +60,7 @@ BNBU 手冊企劃有開官方吹水群，你可以入去同企劃負責人同其
 | 平台 | 加入連結 | 注記 |
 |:-----:|:-----:|-----|
 | QQ | 728748053 | 對昵稱有實名要求 |
+| 微信 | 邀請制 | 對暱稱有實名要求 |
 
 * 官方電郵
 
@@ -85,6 +86,12 @@ BNBU 手冊企劃有開官方吹水群，你可以入去同企劃負責人同其
   <br><img src="https://contributors-img.web.app/image?repo=PhoenixTechProject/BNBUHandbook" />
 </a>
 
+## 特別多謝
+
+| 落名 | 貢獻 | 備註 |
+|:-----:|:-----:|-----|
+| 派大星 | 條目寫作 | 主要執筆人之一 |
+
 ## 許可
 
 本專案原碼擺喺 GitHub，頁面由 GitHub Page 託管，原碼行 [MIT 開源許可](https://mit-license.org/)。  
@@ -92,3 +99,4 @@ BNBU 手冊企劃有開官方吹水群，你可以入去同企劃負責人同其
 全站知識資源冇特別聲明嘅，一律跟住 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 協議發放。
 
 <img src=https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/rect-by-nc-sa.png width=10% />
+
