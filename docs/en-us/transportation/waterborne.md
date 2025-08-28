@@ -1,7 +1,5 @@
 # 🚢 Water Transport
 
-> Author: ShiJimmy
-
 ## Zhuhai Jiuzhou Port
 
 ::: info Payment Method
