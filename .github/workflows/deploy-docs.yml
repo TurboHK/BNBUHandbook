@@ -28,11 +28,11 @@ jobs:
       - name: Build
         run: npm run docs:build
 
-      # - name: Deploy to GitHub Pages
-      #   uses: peaceiris/actions-gh-pages@v3
-      #   with:
-      #     github_token: ${{ secrets.PHOENIX_SYNC_TOKEN }}
-      #     publish_dir: docs/.vitepress/dist
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.PHOENIX_SYNC_TOKEN }}
+          publish_dir: docs/.vitepress/dist
 
 
       - name: Deploy to Aliyun OSS
