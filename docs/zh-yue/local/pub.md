@@ -1,6 +1,6 @@
 # 🍸 酒吧
 
-> 筆者：派大星
+> 筆者：派大星、Hazel 榛涵
 
 > [!CAUTION]
 > 飲酒過量有害健康，人有雅量，酒有適量。<br>不飲酒人士不應因為相信飲酒有可能改善健康而開始飲酒。
@@ -97,6 +97,74 @@ lost 開喺校名石對面，占盡地理優勢，但係硬件同軟件都真係
 日頭有正經茶賣，但價錢唔夠靚，夜晚嘅雞尾酒先係王道！
 
 環境古色古香，襯住北山大院嘅氣息，更加突顯 YDM 嘅茶香。
+
+## 藍溙 taproom 評分：*8.3 / 10*
+::: info 營業時間 / 地址
+18:00-02:00 | 珠海市香洲區前山金山街一巷 35 號喜樂裡 104 號
+:::
+
+同上文提到嘅黑狗一樣係精釀 taproom，係筆者心目中珠海 top3 嘅精釀吧。佢哋主打進口款，果泥、世濤、高倍 ipa 都有，款式多又唔算貴。最大嘅特色係佢哋啲下酒菜，泰式炭燒豬頸肉同烤大蝦，全部都係即燒，好新鮮而且份量唔少。老闆娘係個幾有趣嘅人，酒館微信群度成日啲老饕分享食飲，鐘意精釀同美食嘅朋友唔好錯過。
+
+![](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461345.jpg)
+
+## CODA 評分 *8.5 / 10*
+::: info 營業時間 / 地址
+20:00-02:00 | 珠海市香洲區北山正街北三巷 8 號之十二室
+:::
+
+經營模式係早 C 晚 A，可能係北山咁多 cocktail 吧入面調酒水平最高嘅一間。特調同各種威純飲價錢同 YDM 差唔多，特調酒單換得好勤。有一次帶朋友嚟殺酒單，發現成季啲出品全部金黃色，好有趣。店內位唔多，適合 2-3 人嚟小酌。筆者覺得同 YDM 各有千秋，呢度調酒水平更高，但 YDM 嘅環境同創意更好。建議嚟北山玩嘅時候一次轉場體驗下兩間唔同嘅吧。
+
+![](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461373.jpg)
+
+## 七日可見 coffee.bar（城市陽台店） *8.0 / 10*
+::: info 營業時間 / 地址
+10:00-24:00 | 珠海市香洲區情侶中路正方城市陽台三層最北角棧道
+:::
+
+筆者嘅小眾收藏，亦都係一間早 C 晚 A 嘅店。日頭咖啡出品唔錯，筆者成日團購佢哋嘅冷萃美式。歌單清一色 jazz hiphop（西原健一郎、nujabes 等）。
+
+店內外環境一絕，喺城市陽台商場一個小角落，正對海景，幾啱 dating 小酌。店入面有啲基礎精釀（例如打嗝海狸），但係調酒出品令筆者驚喜，有好多有趣嘅特調。點酒小程式體驗好好，每款酒嘅樣貌、風味、配方全部寫清楚，甚至可以自己揀基酒改配方，用心程度唔似係一間混合型酒吧。推介大家喺日月貝/漁女附近玩嘅時候順便過嚟。
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461379.jpg" width="100" height="100">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461387.jpg" width="100" height="100">
+  </div>
+  <div style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461396.png" width="100" height="200">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461404.jpg" width="100" height="100">
+  </div>
+</div>
+
+## POOL BAR *7.0 / 10*
+::: info 營業時間 / 地址
+20:00-02:00 | 珠海市香洲區前山樂士文化區
+:::
+
+位於前山一個文創園，舖頭幾大。調酒出品中規中矩，主要都係經典款，但價錢好親民，一杯 50~60 蚊喺珠海嚟講算好平，性價比極高。特色係有專業小舞台，經常請樂隊演出，仲成日搞活動。我哋校內啲樂隊都喺呢度演出過，筆者覺得氛圍好正。推介大家有演出嘅時候過嚟飲酒，感受音樂同酒精嘅碰撞。
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461446.jpg" width="100" height="100">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461412.jpg" width="100" height="100">
+  </div>
+  <div style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461427.jpg" width="200" height="200">
+  </div>
+</div>
+
+## RINGO CRAFT BEER 日落酒屋 *7.5 / 10*
+位置：香洲 香海路 69 號  
+營業時間：19:00-01:00  
+
+珠海老牌 taproom，喺一個老舊小區門口。店內裝修主題以落日為靈感，好靚。選品一流，筆者覺得同黑狗、藍溙三分天下。老闆好熱情，會請你試酒。筆者軍訓時成日嚟，無一款踩雷，主打高倍 ipa 同社交 ipa。唯一缺點係價錢偏高，性價比唔算高。不過如果經過附近，筆者仍然好推介嚟試（我經常食完肉元祖燒肉行一陣就嚟呢度飲）。
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461456.jpg" width="100" height="100">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461462.jpg" width="100" height="100">
+  </div>
+</div>
 
 ## 尾声
 

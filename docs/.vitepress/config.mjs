@@ -156,10 +156,15 @@ export default defineConfig({
           ],
         },
         {
-          text: '🎠 社团活动',
+          text: '🎠 社团',
           collapsed: false,
           items: [
-            { text: '🎠 社团活动', link: '/zh-cn/associations/' },
+            { text: '📖 学术类社团', link: '/zh-cn/associations/academic' },
+            { text: '🎙️ 文化艺术类社团', link: '/zh-cn/associations/arts&culture' },
+            { text: '🏀 体育运动类社团', link: '/zh-cn/associations/pe&sports' },
+            { text: '🛎️ 义工服务类社团', link: '/zh-cn/associations/volunteer' },
+            { text: '⚙️ 其他类社团', link: '/zh-cn/associations/others' },
+            { text: '🎆 UCCU 动漫社', link: '/zh-cn/associations/animate' },
           ],
         },
         {
@@ -256,10 +261,15 @@ export default defineConfig({
           ],
         },
         {
-          text: '🎠 社團活動',
+          text: '🎠 社團',
           collapsed: false,
           items: [
-            { text: '🎠 社團活動', link: '/zh-yue/associations/' },
+            { text: '📖 學術類社團', link: '/zh-yue/associations/academic' },
+            { text: '🎙️ 文化藝術類社團', link: '/zh-yue/associations/arts&culture' },
+            { text: '🏀 體育運動類社團', link: '/zh-yue/associations/pe&sports' },
+            { text: '🛎️ 義工服務類社團', link: '/zh-yue/associations/volunteer' },
+            { text: '⚙️ 其他類社團', link: '/zh-yue/associations/others' },
+            { text: '🎆 UCCU 動漫社', link: '/zh-yue/associations/animate' },
           ],
         },
         {
@@ -359,7 +369,12 @@ export default defineConfig({
           text: '🎠 Student Associations',
           collapsed: false,
           items: [
-            { text: '🎠 Student Associations', link: '/en-us/associations/' },
+            { text: '📖 Academic Clubs', link: '/en-us/associations/academic' },
+            { text: '🎙️ Cultural & Arts Clubs', link: '/en-us/associations/arts&culture' },
+            { text: '🏀 Physical Education & Sports Clubs', link: '/en-us/associations/pe&sports' },
+            { text: '🛎️ Volunteer Service Clubs', link: '/en-us/associations/volunteer' },
+            { text: '⚙️ Other Clubs', link: '/en-us/associations/others' },
+            { text: '🎆 UCCU Animation Club', link: '/en-us/associations/animate' },
           ],
         },
         {

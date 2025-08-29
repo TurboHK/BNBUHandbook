@@ -1,6 +1,6 @@
 # 🍸 酒吧
 
-> 笔者：派大星
+> 笔者：派大星、Hazel 榛涵
 
 > [!CAUTION]
 > 过量饮酒有害健康，人有雅量，酒有适量。<br>不饮酒人士不应因为相信饮酒有可能改善健康而开始饮酒。
@@ -77,7 +77,7 @@ lost 当中的餐品虽说预制且质量可以接受，但是两点多厨师就
 ## HILL COCKTAIL *9 / 10分*
 
 ::: info 营业时间 / 地址
-19:00-02:00 | 珠海市香洲区情侣中路47号（怡景湾大酒店19楼）
+19:00-02:00 | 珠海市香洲区情侣中路 47 号（怡景湾大酒店 19 楼）
 :::
 
 这里给 9 分不是酒吧的问题 而是编者自己穷的问题 QwQ，想体验经典爵士鸡尾酒酒吧来这儿准没错 距离偏远，打车需 45 分钟左右。
@@ -87,7 +87,7 @@ lost 当中的餐品虽说预制且质量可以接受，但是两点多厨师就
 ## YDM医帝庙凉茶 *9 / 10分*
 
 ::: info 营业时间 / 地址
-19:00-02:00 | 珠海市北山村北山正街78-5
+19:00-02:00 | 珠海市北山村北山正街 78-5
 :::
 
 地理位置和 HEY!GO 十分接近，同样打车需要 40 分钟左右。
@@ -97,6 +97,74 @@ lost 当中的餐品虽说预制且质量可以接受，但是两点多厨师就
 白天有正经茶水售卖，但是价格比较不美丽，晚上的鸡尾酒才是正道。
 
 环境也是十分古色古香，配上北山大院的气息更显 YDM 的茶香。
+
+## 蓝溙 taproom 评分：*8.3 / 10*
+::: info 营业时间 / 地址
+18:00-02:00 | 珠海市香洲区前山金山街一巷 35 号喜乐里 104 号
+:::
+
+与上文提到的黑狗同属精酿 taproom，笔者心中珠海最棒的的精酿吧前三，与黑狗差异化在主打进口款式。果泥，世涛，高倍 ipa 都有。种类丰富且价格适中，个人认为最大的特色是他家的下酒菜，泰式炭烧猪颈肉与烤大虾，都是现烤的很新鲜且分量不错。老板娘是个很有意思的人，酒馆的微信群里都是老饕在分享吃喝，喜欢精酿和美食的朋友不要错过。
+
+![](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461345.jpg)
+
+## CODA 评分 *8.5 / 10*
+::: info 营业时间 / 地址
+20:00-02:00 | 珠海市香洲区北山正街北三巷 8 号之十二室
+:::
+
+经营模式是早 C 晚 A，也许是北山诸多 cocktail 吧里调酒水平最高的一家，特调和各式威纯饮价格与 YDM 相仿，特调酒单换的很勤，有一季带着朋友来杀酒单发现出品全部都是金黄色的特别有意思，店内座位不多，适合 2~3 人来小酌，环境尚可，笔者认为与 YDM 各有千秋，这里的调酒水平更高，但 YDM 的环境与创意更好，推荐来北山玩时一次转场体验这两家不同的吧。
+
+![](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461373.jpg)
+
+## 七日可见coffee.bar（城市阳台店） *8.0 / 10*
+::: info 营业时间 / 地址
+10:00-24:00 | 珠海市香洲区情侣中路正方城市阳台三层最北角栈道
+:::
+
+笔者的小众收藏，同样是一家早 C 晚 A 的店，白天的咖啡出品很不错，笔者经常团购他家的冷萃美式。歌单清一色全是 jazz hiphop（西原健一郎，nujabes 等等）。
+
+店内外环境一绝，在城市阳台商场一处小角落，正对海景，适合 dating 小酌。店里有卖一些基础经典精酿（如打嗝海狸），而调酒出品是令笔者意外的点，有很多有意思的特调，点酒小程序体验很好，每款酒的样貌、风味、配方都标注清晰，甚至每个复选项里可以自己选配更改基酒配方，用心程度不像一家混合型酒吧，推荐大家在日月贝/渔女附近海边玩时顺路来看看。
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461379.jpg" width="100" height="100">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461387.jpg" width="100" height="100">
+  </div>
+  <div style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461396.png" width="100" height="200">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461404.jpg" width="100" height="100">
+  </div>
+</div>
+
+## POOL BAR *7.0 / 10*
+::: info 营业时间 / 地址
+20:00-02:00 | 珠海市香洲区前山乐士文化区
+:::
+
+位于前山的一个文创园，店铺面积很大，调酒出品差强人意，中等水平，大多都是经典款式，但是价格非常亲民，大约 50~60 的一杯单价在珠海算得上非常便宜，性价比极高。其特色是有专门专业的演出小舞台，会经常请乐队来店内演出，还经常做活动。我们校内的一些乐队就在这家店演出过，笔者感觉氛围非常棒，推荐大家有演出时来这里喝酒，感受音乐与酒精碰撞。
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461446.jpg" width="100" height="100">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461412.jpg" width="100" height="100">
+  </div>
+  <div style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461427.jpg" width="200" height="200">
+  </div>
+</div>
+
+## RINGO CRAFT BEER日落酒屋 *7.5 / 10*
+位置：香洲 香海路 69 号
+营业时间：19:00-01:00
+
+珠海老牌 taproom，坐落于一个老旧小区门口。店内装修主题以落日为灵感，非常漂亮。选品一流，在笔者心中是与黑狗和蓝溙三分天下的存在，老板会很热情的让你试酒。笔者军训时天天光顾他家没有一款踩雷，主要以高倍 ipa 和风味社交 ipa 为主。唯一的缺点是价格在珠海的 taproom 里偏高，笔者认为性价比偏低，不过路过这附近我还是很推荐来试一试的。（我经常吃完肉元祖烤肉刚好走一会儿来这家店喝点）
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461456.jpg" width="100" height="100">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461462.jpg" width="100" height="100">
+  </div>
+</div>
 
 ## 尾声
 
