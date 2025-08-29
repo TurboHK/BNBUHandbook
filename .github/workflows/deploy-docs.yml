@@ -36,12 +36,13 @@ jobs:
 
 
       - name: Deploy to Aliyun OSS
-        uses: jakejarvis/s3-sync-action@master
+        uses: fangbinwei/aliyun-oss-website-action@v1
         with:
-          args:  --follow-symlinks --delete # --acl public-read
-        env:
-          # AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_S3_ENDPOINT: ${{ secrets.AWS_S3_ENDPOINT }}
-          SOURCE_DIR: docs/.vitepress/dist      # optional: defaults to entire repository
+          accessKeyId: ${{ secrets.OSS_ACCESS_KEY_ID }}
+          accessKeySecret: ${{ secrets.OSS_SECRET_ACCESS_KEY }}
+          bucket: ${{ secrets.OSS_BUCKET }}
+          # use your own endpoint
+          endpoint: oss-cn-guangzhou.aliyuncs.com
+          folder: docs/.vitepress/dist
+
+          
