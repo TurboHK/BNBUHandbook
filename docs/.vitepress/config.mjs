@@ -23,13 +23,14 @@ export default defineConfig({
       {},
       "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-0WQ4NW1WME');"
     ],
+    // Umami Code
     [
-      'script',
+      "script",
       {
-        defer: true,
-        src: 'https://cloud.umami.is/script.js',
-        'data-website-id': '386d0c0a-a28e-4605-97ad-e6204912ca31'
-      }
+        defer: "",
+        src:   "https://cloud.umami.is/script.js",
+        "data-website-id": "727c0b14-c3eb-4791-b8c6-5e2ab54c20e1",
+      },
     ],
   ],
 
