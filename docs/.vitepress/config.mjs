@@ -7,8 +7,8 @@ export default defineConfig({
   // CHANGE base TO "/" WHEN DEPLOY ON THE MAIN BRANCH
   head: [
     ['link', { rel: 'icon', href: '/book.svg' }],   // 这里的路径是相对于站点根目录的/public，下面给出警告：
-    // Files in the public directory are served at the root path.
-    // Instead of /public/book.svg, use /book.svg.
+// Files in the public directory are served at the root path.
+// Instead of /public/book.svg, use /book.svg.
 
     // Google Analytics Code
     [
@@ -32,13 +32,6 @@ export default defineConfig({
         "data-website-id": "727c0b14-c3eb-4791-b8c6-5e2ab54c20e1",
       },
     ],
-    [
-      'script',
-      {
-        defer: true,
-        src: '/mirrorswitch.js'
-      }
-    ]
   ],
 
   // Sitemap
@@ -91,14 +84,14 @@ export default defineConfig({
 
     // 编辑链接
     editLink: {
-      pattern: "https://github.com/PhoenixTechProject/BNBUHandbook/edit/main/docs/:path",
-      text: "Edit This Page"
+        pattern: "https://github.com/PhoenixTechProject/BNBUHandbook/edit/main/docs/:path",
+        text: "Edit This Page"
     },
 
     // 页脚信息
     footer: {
       message: "Released under the MIT License",
-      copyright: "Copyright © 2025 PhoenixTech Project"
+      copyright: "Copyright © 2025 PhoenixTech Project",
     },
 
     lastUpdatedText: "Last Updated",
@@ -108,10 +101,8 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Statistics', link: 'https://cloud.umami.is/share/ObjV428L9D0EjU99/bnbutech.cn' },
       { text: 'PhoenixTech Project', link: 'https://github.com/PhoenixTechProject/' },
-      { text: 'Switch to main site', link: 'https://bnbutech.cn/', rel: 'alternate' }
       // { text: 'English', link: '/en-us/' }
     ],
-
 
     // 侧边栏
     sidebar: {
@@ -204,10 +195,10 @@ export default defineConfig({
           text: '🚎 交通设施',
           collapsed: false,
           items: [
-            { text: '🚌 道路运输', link: '/zh-cn/transportation/road' },
-            { text: '🚉 铁路运输', link: '/zh-cn/transportation/rail' },
-            { text: '🚢 水路运输', link: '/zh-cn/transportation/waterborne' },
-            { text: '✈️ 航空运输', link: '/zh-cn/transportation/air' },
+            { text: '🚌 道路运输', link: '/zh-cn/transportation/road'},
+            { text: '🚉 铁路运输', link: '/zh-cn/transportation/rail'},
+            { text: '🚢 水路运输', link: '/zh-cn/transportation/waterborne'},
+            { text: '✈️ 航空运输', link: '/zh-cn/transportation/air'},
           ],
         },
         {
@@ -219,7 +210,7 @@ export default defineConfig({
           ],
         },
       ],
-
+    
       '/zh-yue/': [
         {
           text: '簡介',
@@ -302,17 +293,17 @@ export default defineConfig({
           text: '📲 社交媒體',
           collapsed: false,
           items: [
-            { text: '📺 官方社群媒體', link: '/zh-yue/sns/official' }, ,
+            { text: '📺 官方社群媒體', link: '/zh-yue/sns/official' },,
           ],
         },
         {
           text: '🚎 交通設施',
           collapsed: false,
           items: [
-            { text: '🚌 道路运输', link: '/zh-yue/transportation/road' },
-            { text: '🚉 鐵路運輸', link: '/zh-yue/transportation/rail' },
-            { text: '🚢 水路運輸', link: '/zh-yue/transportation/waterborne' },
-            { text: '✈️ 航空運輸', link: '/zh-yue/transportation/air' },
+            { text: '🚌 道路运输', link: '/zh-yue/transportation/road'},
+            { text: '🚉 鐵路運輸', link: '/zh-yue/transportation/rail'},
+            { text: '🚢 水路運輸', link: '/zh-yue/transportation/waterborne'},
+            { text: '✈️ 航空運輸', link: '/zh-yue/transportation/air'},
           ],
         },
         {
@@ -324,7 +315,7 @@ export default defineConfig({
           ],
         },
       ],
-
+    
       '/en-us/': [
         {
           text: 'Introduction',
@@ -414,10 +405,10 @@ export default defineConfig({
           text: '🚎 Transportation',
           collapsed: false,
           items: [
-            { text: '🚌 Road Transport', link: '/en-us/transportation/road' },
-            { text: '🚉 Rail Transport', link: '/en-us/transportation/rail' },
-            { text: '🚢 Water Transport', link: '/en-us/transportation/waterborne' },
-            { text: '✈️ Air Transport', link: '/en-us/transportation/air' },
+            { text: '🚌 Road Transport', link: '/en-us/transportation/road'},
+            { text: '🚉 Rail Transport', link: '/en-us/transportation/rail'},
+            { text: '🚢 Water Transport', link: '/en-us/transportation/waterborne'},
+            { text: '✈️ Air Transport', link: '/en-us/transportation/air'},
           ],
         },
         {
