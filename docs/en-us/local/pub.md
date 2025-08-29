@@ -1,6 +1,6 @@
 # 🍸 Bars
 
-> Author: Patrick Star
+> Author: Patrick Star, Hazel
 
 > [!CAUTION]
 > Excessive drinking is harmful to your health. People should know their limits, and alcohol should be consumed in moderation.<br>Non-drinkers should not start drinking for the perceived health benefits of alcohol consumption.
@@ -97,6 +97,74 @@ This bar is also renovated from a heritage building and offers cocktails infused
 During the day it sells regular tea (though pricey), but the real deal is the cocktails served at night.
 
 The environment is full of classic Chinese charm, and the atmosphere of Beishan Courtyard adds to YDM’s tea fragrance.
+
+## Lanwei Taproom Rating: *8.3 / 10*
+::: info Opening Hours / Address
+18:00-02:00 | No. 104, Xileli, Lane 35, Jinshan Street, Qianshan, Xiangzhou, Zhuhai
+:::
+
+Like the previously mentioned Black Dog, this is a craft beer taproom and ranks among the top three craft bars in Zhuhai in the author’s opinion. Unlike Black Dog, Lanwei focuses on imported varieties, including fruit beers, stouts, and high-ABV IPAs. The selection is rich and reasonably priced. Its standout feature is the bar snacks—Thai-style grilled pork neck and grilled prawns, all freshly grilled and generous in portion. The owner is an interesting person, and the bar’s WeChat group is full of enthusiasts sharing food and drinks. Craft beer and food lovers should not miss this spot.
+
+![](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461345.jpg)
+
+## CODA Rating: *8.5 / 10*
+::: info Opening Hours / Address
+20:00-02:00 | Room 12, No. 8, North 3rd Lane, Beishan Main Street, Xiangzhou, Zhuhai
+:::
+
+CODA operates as a “Coffee in the Morning, Alcohol at Night” (early C, late A) spot. Perhaps the best cocktail bar in Beishan, its cocktails and premium spirits are priced similarly to YDM. The cocktail menu changes frequently; one season, all cocktails were golden-colored, which was quite interesting. The bar has limited seating, ideal for 2–3 people for a casual drink. In the author’s view, it and YDM each have their own merits—CODA’s mixology skills are higher, while YDM excels in creativity and atmosphere. Recommended to try both when visiting Beishan.
+
+![](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461373.jpg)
+
+## Seven Days Coffee.Bar (City Balcony Branch) Rating: *8.0 / 10*
+::: info Opening Hours / Address
+10:00-24:00 | North Corner, 3rd Floor, City Balcony, Qilou Zhong Road, Xiangzhou, Zhuhai
+:::
+
+A hidden gem of the author, this early C, late A spot serves excellent coffee during the day. The author often buys their cold brew Americano in bulk. The music playlist is pure jazz and hiphop (Kenichiro Nishihara, Nujabes, etc.).  
+
+The indoor and outdoor environment is stunning, located in a small corner of City Balcony mall with a sea view, perfect for dates or casual drinks. The bar also offers classic craft beers (e.g., Belching Beaver), and the cocktail menu is surprisingly creative, with clear labeling of appearance, flavor, and recipe. Users can even customize the base spirit. Unlike generic hybrid bars, this one is thoughtfully curated. Recommended when visiting Sun Moon Bay or Fisher Girl.
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461379.jpg" width="100" height="100">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461387.jpg" width="100" height="100">
+  </div>
+  <div style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461396.png" width="100" height="200">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461404.jpg" width="100" height="100">
+  </div>
+</div>
+
+## Pool Bar Rating: *7.0 / 10*
+::: info Opening Hours / Address
+20:00-02:00 | Leshi Cultural Zone, Qianshan, Xiangzhou, Zhuhai
+:::
+
+Located in a creative park in Qianshan, the bar is spacious. Cocktail quality is average, mostly classic drinks, but prices are very affordable at 50–60 RMB per drink, excellent value. It features a small professional stage for live performances and frequently hosts bands. Some campus bands have performed here. The atmosphere is lively and great—highly recommended to enjoy drinks while watching live music.
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461446.jpg" width="100" height="100">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461412.jpg" width="100" height="100">
+  </div>
+  <div style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461427.jpg" width="200" height="200">
+  </div>
+</div>
+
+## Ringo Craft Beer Sunset Bar Rating: *7.5 / 10*
+Location: No. 69, Xianghai Road, Xiangzhou  
+Opening Hours: 19:00-01:00
+
+An established taproom in Zhuhai, located at the entrance of an old residential area. The interior is sunset-themed and very beautiful. The beer selection is excellent, making it a top-tier choice along with Black Dog and Lanwei. The owner enthusiastically offers tastings. During the author’s military training, every visit was a success—mainly high-ABV and flavored social IPAs. The only downside is slightly higher pricing compared to other Zhuhai taprooms, but still recommended when nearby (often visited after meals at Nikko BBQ).
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461456.jpg" width="100" height="100">
+    <img src="http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/local/pubs/1756461462.jpg" width="100" height="100">
+  </div>
+</div>
 
 ## Epilogue
 
