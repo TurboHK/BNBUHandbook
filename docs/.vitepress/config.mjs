@@ -26,9 +26,8 @@ export default defineConfig({
     [
       'script',
       {
-        defer: true,
+        async: '',
         src: 'https://cloud.umami.is/script.js',
-        'data-website-id': '386d0c0a-a28e-4605-97ad-e6204912ca31'
       }
     ],
   ],
