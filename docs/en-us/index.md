@@ -13,6 +13,9 @@ hero:
       text: BNBU Mobile App
       link: https://turbostudios.org/index.php/bnbu-mobile/
     - theme: alt
+      text: Visitor Statistics
+      link: https://cloud.umami.is/share/ObjV428L9D0EjU99/bnbutech.cn
+    - theme: alt
       text: Contribute
       link: https://github.com/PhoenixTechProject/BNBUHandbook
 

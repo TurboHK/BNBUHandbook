@@ -23,6 +23,14 @@ export default defineConfig({
       {},
       "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-0WQ4NW1WME');"
     ],
+    [
+      'script',
+      {
+        defer: true,
+        src: 'https://cloud.umami.is/script.js',
+        'data-website-id': '386d0c0a-a28e-4605-97ad-e6204912ca31'
+      }
+    ],
   ],
 
   // Sitemap
@@ -90,6 +98,7 @@ export default defineConfig({
     // 导航栏
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Statistics', link: 'https://cloud.umami.is/share/ObjV428L9D0EjU99/bnbutech.cn' },
       { text: 'PhoenixTech Project', link: 'https://github.com/PhoenixTechProject/' },
       // { text: 'English', link: '/en-us/' }
     ],

@@ -143,7 +143,7 @@ I see no floor, Immersed in it.
   <img src="https://sao.uic.edu.cn/virtual_attach_file.vsb?afc=NnRrTVLmLDnNnfntz-Yn7CaM4VkM46jRMNLbLm7anlUaMz90gihFp2hmCIa0n1yZM1yioSy8nNCboRA7LlL4LmCZMz7ZnmLZMzn2Mm6Vo7WFnRfkLllDMmVFU4VkM1baptveo4Oe6ITm5sMApYhXptQ0g47PMzG0Lz-Zokbw62w8c&tid=1150&nid=1288&e=.png" width="100" height="100" />
 </p>
 
-## U-SKATE滑板社
+## U-SKATE 滑板社
 
 US 滑板社致力于为 BNBU 滑手提供一个交流、学习的平台，让更多的人了解、接触到滑板、轮滑文化。  
 
