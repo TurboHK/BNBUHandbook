@@ -99,9 +99,9 @@ export default defineConfig({
     // 导航栏
     nav: [
       { text: 'Home', link: '/' },
+      
       { text: 'Statistics', link: 'https://cloud.umami.is/share/ObjV428L9D0EjU99/bnbutech.cn' },
       { text: 'PhoenixTech Project', link: 'https://github.com/PhoenixTechProject/' },
-      // { text: 'English', link: '/en-us/' }
     ],
 
     // 侧边栏
@@ -293,7 +293,7 @@ export default defineConfig({
           text: '📲 社交媒體',
           collapsed: false,
           items: [
-            { text: '📺 官方社群媒體', link: '/zh-yue/sns/official' },,
+            { text: '📺 官方社群媒體', link: '/zh-yue/sns/official' },
           ],
         },
         {
