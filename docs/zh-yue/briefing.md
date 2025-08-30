@@ -1,5 +1,8 @@
 > 粵語校對：[TurboHK](https://github.com/TurboHK)
 
+>[!TIP]
+>如果覺得載入速度太慢，[點擊連結](/switch)就可以轉去鏡像站
+
 # 前言
 
 歡迎使用 BNBU 手冊！
