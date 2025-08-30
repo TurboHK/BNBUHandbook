@@ -1,5 +1,8 @@
 > Due to staffing constraints, some pages in this language may be **machine-translated**. To report back on translation quality issues, please raise them [here](https://github.com/PhoenixTechProject/BNBUHandbook/issues/new).
 
+>[!TIP]
+>If you feel the loading speed is too slow, [click this link](/switch) to switch to the mirror site.
+
 # Intro
 
 Welcome to the BNBU Handbook!

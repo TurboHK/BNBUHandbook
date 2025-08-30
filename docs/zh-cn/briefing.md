@@ -1,5 +1,8 @@
 > 普通话（大陆简体）分支维护者：[寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton)
 
+> [!TIP]
+> 若您感到加载速度太慢，[点击链接](/switch)即可转换至镜像站
+
 # 前言
 
 欢迎使用 BNBU 手册！

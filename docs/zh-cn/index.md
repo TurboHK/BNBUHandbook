@@ -13,6 +13,9 @@ hero:
       text: BNBU Mobile App
       link: https://turbostudios.org/index.php/bnbu-mobile/
     - theme: alt
+      text: 切换源站
+      link: /switch
+    - theme: alt
       text: 访客统计
       link: https://cloud.umami.is/share/ObjV428L9D0EjU99/bnbutech.cn
     - theme: alt
